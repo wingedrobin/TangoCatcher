@@ -26,7 +26,7 @@ proj.MainScene = cc.Scene.extend(
 		
 		cc.spriteFrameCache.addSpriteFrames( res.Hiragana_plist , res.Hiragana_png ) ;
 		
-		if( !proj.config )
+		// if( !proj.config )
 			cc.loader.loadJson( "res/configuration.json" , this._onConfigJsonLoaded.bind( this ) ) ;
 		
 	} ,
@@ -56,25 +56,25 @@ proj.MainScene = cc.Scene.extend(
 			throw new Error( "Gojyuon Json File load failed." ) ;
 		
 		proj.Hiragana = json.Hiragana ;
-		this._hiraganaArray = Object.keys( proj.Hiragana ) ;
+		// this._hiraganaArray = Object.keys( proj.Hiragana ) ;
 		proj.Katakana = json.Katakana ;
-		this._katakanaArray = Object.keys( proj.Katakana ) ;
+		// this._katakanaArray = Object.keys( proj.Katakana ) ;
 		
 		this._candidateCountDown = Math.floor( util.randomBetween( 4 , 7 ) ) ;
 		this._targetAlphabetIndex = 0 ;
 		
 		var bgLayer = new proj.BackgroundLayer( res.background1_png ) ;
-		this.addChild( bgLayer ) ;
 		
 		this._mainLayer = new proj.PhysicsLayer( this._physicsSpace ) ;
-		this.addChild( this._mainLayer ) ;
 		
 		this._uiLayer = new proj.UserInterfaceLayer( ) ;
 		this._uiLayer.setPosition( 0 , 650 ) ;
-		this.addChild( this._uiLayer ) ;
-		
 		this._uiLayer.setQuestion( this._questions[ 0 ].original ) ;
 		this._uiLayer.setAnswer( this._questions[ 0 ].word ) ;
+		
+		this.addChild( bgLayer ) ;
+		this.addChild( this._mainLayer ) ;
+		this.addChild( this._uiLayer ) ;
 		
 		this.scheduleUpdate( ) ;
 	} ,
@@ -126,29 +126,23 @@ proj.MainScene = cc.Scene.extend(
 		}
 	} ,
 	
-	_pickCandidateAlphabet : function( alphabet )
+	getAnswer : function( )
 	{
-		// var alphabetIndices = [ ] ;
-		
-		// for( var i = 0 ; i < proj.config.MaxAmountOfAlphabetOnView ; ++ i )
-		// {
-			
-		// }
-		
-		
-		
-		// this._candidateAlphabet.
-	} ,
-	
-	getCurrentQuestion : function( )
-	{
+		var ans = null ;
+		cc.log( "questions.length=" ) ;
+		cc.log( this._questions.length ) ;
 		if( this._questions.length > 0 )
-			return this._questions[ 0 ].original ;
-	} ,
-	
-	getCurrentAnswer : function( )
-	{
-		return this._questions[ 0 ].word ;
+		{
+		cc.log( "in getAnswer" ) ;
+			// var q = this._questions.shift( ) ;
+			var q = this._questions[ 0 ] ;
+			this._uiLayer.setQuestion( q.original ) ;
+			this._uiLayer.setAnswer( q.word ) ;
+			ans = q.word ;
+			cc.log( ans ) ;
+		}
+		
+		return ans ;
 	} ,
 	
 	getCurrentChineseTip : function( )
@@ -156,43 +150,20 @@ proj.MainScene = cc.Scene.extend(
 		return this._questions[ 0 ].chinese ;
 	} ,
 	
-	getAlphabet : function( )
+	hasQuestionRemain : function( )
 	{
-		-- this._candidateCountDown ;
-		
-		cc.log( this._candidateCountDown ) ;
-		
-		if( this._candidateCountDown === 0 )
-		{
-			this._candidateCountDown = Math.floor( util.randomBetween( 4 , 7 ) ) ;
-			return this.getCandidateMonji( ) ;
-		}
-		else
-			return this.getRandomMonji( ) ;
+		this._questions.shift( ) ;
+		return this._questions.length > 0 ;
 	} ,
 	
-	getCandidateMonji : function( )
+	levelClear : function( )
 	{
-		cc.log( "getCandidateMonji" ) ;
-		cc.log( this._questions[ 0 ] ) ;
-		cc.log( this._targetAlphabetIndex ) ;
-		cc.log( this._questions[ 0 ].word[ this._targetAlphabetIndex ] ) ;
-		return proj.Hiragana[ this._questions[ 0 ].word[ this._targetAlphabetIndex ] ] ;
-	} ,
-	
-	getRandomMonji : function( )
-	{
-		var index = Math.floor( Math.random( ) * 100 ) % this._hiraganaArray.length ;
+		cc.log( "Level Clear!!!!" ) ;
+		var stageClearLayer = new proj.StageClearLayer( cc.color( 50 , 50 , 50 , 150 ) ,
+														cc.director.getWinSize( ).width ,
+														cc.director.getWinSize( ).height ) ;
 		
-		return proj.Hiragana[ this._hiraganaArray[ index ] ] ;
-	} ,
-	
-	alphabetMatch : function( )
-	{
-		++ this._targetAlphabetIndex ;
-		
-		if( this._targetAlphabetIndex === this._questions[ 0 ].length )
-			this._questions.shift( ) ;
+		this.addChild( stageClearLayer ) ;
 	} ,
 	
 	update : function( dt )
@@ -206,6 +177,7 @@ proj.MainScene = cc.Scene.extend(
 	onEnter : function( )
 	{
 		this._super( ) ;
+		cc.log( "main scene onEnter" ) ;
 		
 		// this.scheduleUpdate( ) ;
 	} ,
@@ -213,6 +185,7 @@ proj.MainScene = cc.Scene.extend(
 	onEnterTransitionDidFinish : function( )
 	{
 		this._super( ) ;
+		cc.log( "main scene onEnterTransitionDidFinish" ) ;
 	} ,
 	
 	onExitTransitionDidStart : function( )
@@ -223,5 +196,6 @@ proj.MainScene = cc.Scene.extend(
 	onExit : function( )
 	{
 		this._super( ) ;
+		this.removeAllChildren( ) ;
 	}
 } ) ;

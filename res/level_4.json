@@ -1,0 +1,3522 @@
+[
+	{
+		"word"		: "（いいえ）どういたしまして。" ,
+		"original"	: "（いいえ）何う-致しまして。" ,
+		"chinese"	: "不用客氣"
+	} ,
+	{
+		"word"		: "（では）おげんきで" ,
+		"original"	: "（では）お元気で。" ,
+		"chinese"	: "（那麼）請多保重"
+	} ,
+	{
+		"word"		: "（どうぞ，）よろしく。" ,
+		"original"	: "（どうぞ，）宜しく。" ,
+		"chinese"	: "請關照、多多指教"
+	} ,
+	{
+		"word"		: "いえ" ,
+		"original"	: "家" ,
+		"chinese"	: "房子、住宅"
+	} ,
+	{
+		"word"		: "いかが" ,
+		"original"	: "如何" ,
+		"chinese"	: "如何、是否合適"
+	} ,
+	{
+		"word"		: "いく//ゆく" ,
+		"original"	: "行く" ,
+		"chinese"	: "去"
+	} ,
+	{
+		"word"		: "いくつ" ,
+		"original"	: "幾つ" ,
+		"chinese"	: "多少、幾個、幾歲"
+	} ,
+	{
+		"word"		: "いくら" ,
+		"original"	: "幾ら" ,
+		"chinese"	: "多少、多少錢、不論多少"
+	} ,
+	{
+		"word"		: "いけ" ,
+		"original"	: "池" ,
+		"chinese"	: "池子"
+	} ,
+	{
+		"word"		: "いしゃ" ,
+		"original"	: "医者" ,
+		"chinese"	: "醫生"
+	} ,
+	{
+		"word"		: "いす" ,
+		"original"	: "椅子" ,
+		"chinese"	: "椅子"
+	} ,
+	{
+		"word"		: "いそがしい" ,
+		"original"	: "忙しい" ,
+		"chinese"	: "繁忙的、忙碌的"
+	} ,
+	{
+		"word"		: "いたい" ,
+		"original"	: "痛い" ,
+		"chinese"	: "疼、疼痛"
+	} ,
+	{
+		"word"		: "いただきます。" ,
+		"original"	: "頂きます。" ,
+		"chinese"	: "我要吃了"
+	} ,
+	{
+		"word"		: "いち" ,
+		"original"	: "一" ,
+		"chinese"	: "一"
+	} ,
+	{
+		"word"		: "いちいち" ,
+		"original"	: "一々" ,
+		"chinese"	: "一個一個地、逐一"
+	} ,
+	{
+		"word"		: "いちにち" ,
+		"original"	: "一日" ,
+		"chinese"	: "一日、終日"
+	} ,
+	{
+		"word"		: "いちばん" ,
+		"original"	: "一番" ,
+		"chinese"	: "最初、最好//最、頂"
+	} ,
+	{
+		"word"		: "いつ" ,
+		"original"	: "何時" ,
+		"chinese"	: "何時、什麼時候"
+	} ,
+	{
+		"word"		: "いつか" ,
+		"original"	: "五日" ,
+		"chinese"	: "五日、五號"
+	} ,
+	{
+		"word"		: "いっしょ" ,
+		"original"	: "一緒" ,
+		"chinese"	: "一同、一起"
+	} ,
+	{
+		"word"		: "いったい" ,
+		"original"	: "一体" ,
+		"chinese"	: "一體、究竟、到底"
+	} ,
+	{
+		"word"		: "いつつ" ,
+		"original"	: "五つ" ,
+		"chinese"	: "五個、五歲"
+	} ,
+	{
+		"word"		: "いつも" ,
+		"original"	: "何時も" ,
+		"chinese"	: "總是、往常、經常、平時"
+	} ,
+	{
+		"word"		: "いぬ" ,
+		"original"	: "犬" ,
+		"chinese"	: "狗"
+	} ,
+	{
+		"word"		: "いま" ,
+		"original"	: "今" ,
+		"chinese"	: "現在、馬上"
+	} ,
+	{
+		"word"		: "いみ" ,
+		"original"	: "意味" ,
+		"chinese"	: "意思、含義、價值"
+	} ,
+	{
+		"word"		: "いもうと（さん）" ,
+		"original"	: "妹（さん）" ,
+		"chinese"	: "妹妹、小姨"
+	} ,
+	{
+		"word"		: "いや" ,
+		"original"	: "嫌" ,
+		"chinese"	: "討厭、不願意"
+	} ,
+	{
+		"word"		: "いらっしゃい（ませ）。" ,
+		"original"	: "いらっしゃい（ませ）。" ,
+		"chinese"	: "請來、歡迎"
+	} ,
+	{
+		"word"		: "いりぐち" ,
+		"original"	: "入り口" ,
+		"chinese"	: "入口、門口"
+	} ,
+	{
+		"word"		: "いる" ,
+		"original"	: "居る" ,
+		"chinese"	: "有、居住"
+	} ,
+	{
+		"word"		: "いる" ,
+		"original"	: "要る" ,
+		"chinese"	: "要、需要"
+	} ,
+	{
+		"word"		: "いれる" ,
+		"original"	: "入れる" ,
+		"chinese"	: "容納、採用、娤、放"
+	} ,
+	{
+		"word"		: "いろ" ,
+		"original"	: "色" ,
+		"chinese"	: "色、色彩"
+	} ,
+	{
+		"word"		: "いろいろ" ,
+		"original"	: "色々" ,
+		"chinese"	: "各式各樣"
+	} ,
+	{
+		"word"		: "いわ" ,
+		"original"	: "岩" ,
+		"chinese"	: "岩石"
+	} ,
+	{
+		"word"		: "うえ" ,
+		"original"	: "上" ,
+		"chinese"	: "上、上面"
+	} ,
+	{
+		"word"		: "うしろ" ,
+		"original"	: "後ろ" ,
+		"chinese"	: "後、後面、後方"
+	} ,
+	{
+		"word"		: "うすい" ,
+		"original"	: "薄い" ,
+		"chinese"	: "薄的、淺的"
+	} ,
+	{
+		"word"		: "うた" ,
+		"original"	: "歌" ,
+		"chinese"	: "歌、歌曲"
+	} ,
+	{
+		"word"		: "うたう" ,
+		"original"	: "歌う" ,
+		"chinese"	: "歌頌、頌揚、唱、鳴"
+	} ,
+	{
+		"word"		: "うち" ,
+		"original"	: "家「わたしのうち」" ,
+		"chinese"	: "家庭、房子、住宅"
+	} ,
+	{
+		"word"		: "うまれる" ,
+		"original"	: "生まれる" ,
+		"chinese"	: "產生、出現"
+	} ,
+	{
+		"word"		: "うみ" ,
+		"original"	: "海" ,
+		"chinese"	: "海、海洋"
+	} ,
+	{
+		"word"		: "うる" ,
+		"original"	: "売る" ,
+		"chinese"	: "賣、售、販賣"
+	} ,
+	{
+		"word"		: "うるさい" ,
+		"original"	: "煩い" ,
+		"chinese"	: "吵、麻煩的"
+	} ,
+	{
+		"word"		: "うわぎ" ,
+		"original"	: "上着" ,
+		"chinese"	: "外衣、上衣"
+	} ,
+	{
+		"word"		: "え" ,
+		"original"	: "絵" ,
+		"chinese"	: "圖畫、畫"
+	} ,
+	{
+		"word"		: "えいが" ,
+		"original"	: "映画" ,
+		"chinese"	: "電影"
+	} ,
+	{
+		"word"		: "えいがかん" ,
+		"original"	: "映画館" ,
+		"chinese"	: "電影院"
+	} ,
+	{
+		"word"		: "えいご" ,
+		"original"	: "英語" ,
+		"chinese"	: "英語"
+	} ,
+	{
+		"word"		: "ええ" ,
+		"original"	: "ええ" ,
+		"chinese"	: "嗯、對"
+	} ,
+	{
+		"word"		: "えき" ,
+		"original"	: "駅" ,
+		"chinese"	: "車站"
+	} ,
+	{
+		"word"		: "エレベーター" ,
+		"original"	: "elevator" ,
+		"chinese"	: "電梯"
+	} ,
+	{
+		"word"		: "えん" ,
+		"original"	: "〜円" ,
+		"chinese"	: "日元、圓"
+	} ,
+	{
+		"word"		: "えんぴつ" ,
+		"original"	: "鉛筆" ,
+		"chinese"	: "鉛筆"
+	} ,
+	{
+		"word"		: "お//おん〜" ,
+		"original"	: "御〜" ,
+		"chinese"	: "表示尊敬、表示謙遜"
+	} ,
+	{
+		"word"		: "おいしい" ,
+		"original"	: "美味しい" ,
+		"chinese"	: "好吃的、美味的"
+	} ,
+	{
+		"word"		: "おおい" ,
+		"original"	: "多い" ,
+		"chinese"	: "多的"
+	} ,
+	{
+		"word"		: "おおきい" ,
+		"original"	: "大きい" ,
+		"chinese"	: "大的、巨大的、高大的"
+	} ,
+	{
+		"word"		: "おおきな" ,
+		"original"	: "大きな" ,
+		"chinese"	: "大、大的"
+	} ,
+	{
+		"word"		: "おおぜい" ,
+		"original"	: "大勢" ,
+		"chinese"	: "人數眾多、許多人、大家"
+	} ,
+	{
+		"word"		: "おかあさん" ,
+		"original"	: "お母さん" ,
+		"chinese"	: "媽媽、令堂、母親"
+	} ,
+	{
+		"word"		: "おかし" ,
+		"original"	: "お菓子" ,
+		"chinese"	: "點心"
+	} ,
+	{
+		"word"		: "おかね" ,
+		"original"	: "お金" ,
+		"chinese"	: "錢"
+	} ,
+	{
+		"word"		: "おきる" ,
+		"original"	: "起きる" ,
+		"chinese"	: "起來、起床"
+	} ,
+	{
+		"word"		: "おく" ,
+		"original"	: "置く" ,
+		"chinese"	: "放置、放下、設置"
+	} ,
+	{
+		"word"		: "おくさん" ,
+		"original"	: "奥さん" ,
+		"chinese"	: "夫人"
+	} ,
+	{
+		"word"		: "おさけ" ,
+		"original"	: "御酒" ,
+		"chinese"	: "酒"
+	} ,
+	{
+		"word"		: "おさら" ,
+		"original"	: "お皿" ,
+		"chinese"	: "盤子"
+	} ,
+	{
+		"word"		: "おじ（さん）" ,
+		"original"	: "叔父、伯父（さん）" ,
+		"chinese"	: "伯父、叔父"
+	} ,
+	{
+		"word"		: "おじいさん" ,
+		"original"	: "お爺さん" ,
+		"chinese"	: "祖父、老爺爺"
+	} ,
+	{
+		"word"		: "おしえる" ,
+		"original"	: "教える" ,
+		"chinese"	: "教導、指點、教授"
+	} ,
+	{
+		"word"		: "おす" ,
+		"original"	: "押す" ,
+		"chinese"	: "推、壓、按"
+	} ,
+	{
+		"word"		: "おそい" ,
+		"original"	: "遅い" ,
+		"chinese"	: "遲緩的、慢"
+	} ,
+	{
+		"word"		: "おちゃ" ,
+		"original"	: "お茶" ,
+		"chinese"	: "茶"
+	} ,
+	{
+		"word"		: "おてあらい" ,
+		"original"	: "御手洗い" ,
+		"chinese"	: "廁所、洗手間"
+	} ,
+	{
+		"word"		: "おとうさん" ,
+		"original"	: "お父さん" ,
+		"chinese"	: "父親、爸爸"
+	} ,
+	{
+		"word"		: "おとうと" ,
+		"original"	: "弟" ,
+		"chinese"	: "弟弟"
+	} ,
+	{
+		"word"		: "おとこ" ,
+		"original"	: "男" ,
+		"chinese"	: "男子"
+	} ,
+	{
+		"word"		: "おとこのこ" ,
+		"original"	: "男の子" ,
+		"chinese"	: "男孩"
+	} ,
+	{
+		"word"		: "おととい" ,
+		"original"	: "一昨日" ,
+		"chinese"	: "昨天"
+	} ,
+	{
+		"word"		: "おととし" ,
+		"original"	: "一昨年" ,
+		"chinese"	: "昨年"
+	} ,
+	{
+		"word"		: "おとな" ,
+		"original"	: "大人" ,
+		"chinese"	: "大人、成人"
+	} ,
+	{
+		"word"		: "おなか" ,
+		"original"	: "お腹" ,
+		"chinese"	: "肚子"
+	} ,
+	{
+		"word"		: "おなじ" ,
+		"original"	: "同じ" ,
+		"chinese"	: "一樣、相同"
+	} ,
+	{
+		"word"		: "おにいさん" ,
+		"original"	: "お兄さん" ,
+		"chinese"	: "哥哥"
+	} ,
+	{
+		"word"		: "おねえさん" ,
+		"original"	: "お姉さん" ,
+		"chinese"	: "姊姊"
+	} ,
+	{
+		"word"		: "おねがいします。" ,
+		"original"	: "御願い-します。" ,
+		"chinese"	: "拜託您了、麻煩請…、請…"
+	} ,
+	{
+		"word"		: "おば（さん）" ,
+		"original"	: "叔母、伯母（さん）" ,
+		"chinese"	: "伯母"
+	} ,
+	{
+		"word"		: "おばあさん" ,
+		"original"	: "お婆さん" ,
+		"chinese"	: "祖母、老婆婆"
+	} ,
+	{
+		"word"		: "おはようございます。" ,
+		"original"	: "御早う御座います。" ,
+		"chinese"	: "早安、早"
+	} ,
+	{
+		"word"		: "おふろ" ,
+		"original"	: "御風呂" ,
+		"chinese"	: "藻盆、浴池"
+	} ,
+	{
+		"word"		: "おべんとう" ,
+		"original"	: "御弁当" ,
+		"chinese"	: "便當"
+	} ,
+	{
+		"word"		: "おぼえる" ,
+		"original"	: "覚える" ,
+		"chinese"	: "記得、學會"
+	} ,
+	{
+		"word"		: "おまわりさん" ,
+		"original"	: "お巡りさん" ,
+		"chinese"	: "警察、巡警"
+	} ,
+	{
+		"word"		: "おもい" ,
+		"original"	: "重い" ,
+		"chinese"	: "重、沉重"
+	} ,
+	{
+		"word"		: "おもしろい" ,
+		"original"	: "面白い" ,
+		"chinese"	: "有趣、好笑"
+	} ,
+	{
+		"word"		: "おやすみなさい。" ,
+		"original"	: "お休みなさい。" ,
+		"chinese"	: "晚安"
+	} ,
+	{
+		"word"		: "およぐ" ,
+		"original"	: "泳ぐ" ,
+		"chinese"	: "泳游"
+	} ,
+	{
+		"word"		: "おりる" ,
+		"original"	: "降りる" ,
+		"chinese"	: "從高處下來"
+	} ,
+	{
+		"word"		: "おわる" ,
+		"original"	: "終わる" ,
+		"chinese"	: "終了、結束"
+	} ,
+	{
+		"word"		: "おんがく" ,
+		"original"	: "音楽" ,
+		"chinese"	: "音樂"
+	} ,
+	{
+		"word"		: "おんな" ,
+		"original"	: "女" ,
+		"chinese"	: "女子、婦女、雌的"
+	} ,
+	{
+		"word"		: "おんなのこ" ,
+		"original"	: "女の子" ,
+		"chinese"	: "女孩、少女"
+	} ,
+	{
+		"word"		: "かい" ,
+		"original"	: "〜回" ,
+		"chinese"	: "〜回、〜次"
+	} ,
+	{
+		"word"		: "かい" ,
+		"original"	: "〜階" ,
+		"chinese"	: "〜樓"
+	} ,
+	{
+		"word"		: "がいこく" ,
+		"original"	: "外国" ,
+		"chinese"	: "國外"
+	} ,
+	{
+		"word"		: "がいこくじん" ,
+		"original"	: "外国人" ,
+		"chinese"	: "外國人"
+	} ,
+	{
+		"word"		: "かいしゃ" ,
+		"original"	: "会社" ,
+		"chinese"	: "公司"
+	} ,
+	{
+		"word"		: "かいだん" ,
+		"original"	: "階段" ,
+		"chinese"	: "階梯、等級"
+	} ,
+	{
+		"word"		: "かいもの" ,
+		"original"	: "買い物" ,
+		"chinese"	: "買東西"
+	} ,
+	{
+		"word"		: "かう" ,
+		"original"	: "買う" ,
+		"chinese"	: "買"
+	} ,
+	{
+		"word"		: "かえす" ,
+		"original"	: "返す" ,
+		"chinese"	: "回去、歸還"
+	} ,
+	{
+		"word"		: "かえる" ,
+		"original"	: "帰る" ,
+		"chinese"	: "返回、回歸"
+	} ,
+	{
+		"word"		: "かお" ,
+		"original"	: "顔" ,
+		"chinese"	: "臉、面孔"
+	} ,
+	{
+		"word"		: "かかる" ,
+		"original"	: "掛かる" ,
+		"chinese"	: "垂掛、花費"
+	} ,
+	{
+		"word"		: "かぎ" ,
+		"original"	: "鍵" ,
+		"chinese"	: "鑰匙"
+	} ,
+	{
+		"word"		: "かく" ,
+		"original"	: "書く、描く" ,
+		"chinese"	: "寫、畫"
+	} ,
+	{
+		"word"		: "がくせい" ,
+		"original"	: "学生" ,
+		"chinese"	: "學生"
+	} ,
+	{
+		"word"		: "かげつ" ,
+		"original"	: "〜箇月" ,
+		"chinese"	: "個月"
+	} ,
+	{
+		"word"		: "かける" ,
+		"original"	: "掛ける「眼鏡をかける」" ,
+		"chinese"	: "戴眼鏡"
+	} ,
+	{
+		"word"		: "かける" ,
+		"original"	: "掛ける「電話をかける」" ,
+		"chinese"	: "打電話"
+	} ,
+	{
+		"word"		: "かさ" ,
+		"original"	: "傘" ,
+		"chinese"	: "雨傘"
+	} ,
+	{
+		"word"		: "かす" ,
+		"original"	: "貸す" ,
+		"chinese"	: "借出"
+	} ,
+	{
+		"word"		: "かぜ" ,
+		"original"	: "風" ,
+		"chinese"	: "風"
+	} ,
+	{
+		"word"		: "かぜ" ,
+		"original"	: "風邪" ,
+		"chinese"	: "感冒"
+	} ,
+	{
+		"word"		: "かぞく" ,
+		"original"	: "家族" ,
+		"chinese"	: "家族"
+	} ,
+	{
+		"word"		: "かた" ,
+		"original"	: "方「この方」" ,
+		"chinese"	: "(這)位"
+	} ,
+	{
+		"word"		: "かたかな" ,
+		"original"	: "片仮名" ,
+		"chinese"	: "片假名"
+	} ,
+	{
+		"word"		: "がつ" ,
+		"original"	: "〜月" ,
+		"chinese"	: "幾月"
+	} ,
+	{
+		"word"		: "がっこう" ,
+		"original"	: "学校" ,
+		"chinese"	: "學校"
+	} ,
+	{
+		"word"		: "カップ" ,
+		"original"	: "cup" ,
+		"chinese"	: "(咖啡/紅茶)杯、獎杯"
+	} ,
+	{
+		"word"		: "かてい" ,
+		"original"	: "家庭" ,
+		"chinese"	: "家庭"
+	} ,
+	{
+		"word"		: "かど" ,
+		"original"	: "角" ,
+		"chinese"	: "角"
+	} ,
+	{
+		"word"		: "かばん" ,
+		"original"	: "鞄" ,
+		"chinese"	: "皮包、提包、公事包"
+	} ,
+	{
+		"word"		: "かびん" ,
+		"original"	: "花瓶" ,
+		"chinese"	: "花瓶"
+	} ,
+	{
+		"word"		: "かぶる" ,
+		"original"	: "被る" ,
+		"chinese"	: "戴"
+	} ,
+	{
+		"word"		: "かみ" ,
+		"original"	: "紙" ,
+		"chinese"	: "紙"
+	} ,
+	{
+		"word"		: "カメラ" ,
+		"original"	: "camera" ,
+		"chinese"	: "相機"
+	} ,
+	{
+		"word"		: "かようび" ,
+		"original"	: "火曜日" ,
+		"chinese"	: "星期二"
+	} ,
+	{
+		"word"		: "からい" ,
+		"original"	: "辛い" ,
+		"chinese"	: "辣、殘酷"
+	} ,
+	{
+		"word"		: "からだ" ,
+		"original"	: "体" ,
+		"chinese"	: "身體"
+	} ,
+	{
+		"word"		: "かりる" ,
+		"original"	: "借りる" ,
+		"chinese"	: "借、借助"
+	} ,
+	{
+		"word"		: "がる" ,
+		"original"	: "〜がる" ,
+		"chinese"	: "也覺得〜"
+	} ,
+	{
+		"word"		: "かるい" ,
+		"original"	: "軽い" ,
+		"chinese"	: "輕"
+	} ,
+	{
+		"word"		: "カレー" ,
+		"original"	: "curry" ,
+		"chinese"	: "咖哩"
+	} ,
+	{
+		"word"		: "カレンダー" ,
+		"original"	: "calendar" ,
+		"chinese"	: "月曆"
+	} ,
+	{
+		"word"		: "かわ" ,
+		"original"	: "川、河" ,
+		"chinese"	: "河"
+	} ,
+	{
+		"word"		: "がわ" ,
+		"original"	: "〜側" ,
+		"chinese"	: "旁邊、周圍"
+	} ,
+	{
+		"word"		: "かわいい" ,
+		"original"	: "可愛い" ,
+		"chinese"	: "可愛"
+	} ,
+	{
+		"word"		: "かんじ" ,
+		"original"	: "漢字" ,
+		"chinese"	: "漢字"
+	} ,
+	{
+		"word"		: "き" ,
+		"original"	: "木" ,
+		"chinese"	: "樹木"
+	} ,
+	{
+		"word"		: "きいろ" ,
+		"original"	: "黄色" ,
+		"chinese"	: "黄色"
+	} ,
+	{
+		"word"		: "きいろい" ,
+		"original"	: "黄色い" ,
+		"chinese"	: "黄色的"
+	} ,
+	{
+		"word"		: "きえる" ,
+		"original"	: "消える" ,
+		"chinese"	: "消失"
+	} ,
+	{
+		"word"		: "きく" ,
+		"original"	: "聞く" ,
+		"chinese"	: "聽"
+	} ,
+	{
+		"word"		: "きた" ,
+		"original"	: "北" ,
+		"chinese"	: "北方"
+	} ,
+	{
+		"word"		: "ギター" ,
+		"original"	: "guitar" ,
+		"chinese"	: "吉他"
+	} ,
+	{
+		"word"		: "きたない" ,
+		"original"	: "汚い" ,
+		"chinese"	: "不乾淨、骯髒"
+	} ,
+	{
+		"word"		: "きっさてん" ,
+		"original"	: "喫茶店" ,
+		"chinese"	: "咖啡店"
+	} ,
+	{
+		"word"		: "きって" ,
+		"original"	: "切手" ,
+		"chinese"	: "郵票"
+	} ,
+	{
+		"word"		: "きっぷ" ,
+		"original"	: "切符" ,
+		"chinese"	: "(車)票、券"
+	} ,
+	{
+		"word"		: "きのう" ,
+		"original"	: "昨日" ,
+		"chinese"	: "昨天"
+	} ,
+	{
+		"word"		: "きゅう" ,
+		"original"	: "九" ,
+		"chinese"	: "九"
+	} ,
+	{
+		"word"		: "ぎゅうにく" ,
+		"original"	: "牛肉" ,
+		"chinese"	: "牛肉"
+	} ,
+	{
+		"word"		: "ぎゅうにゅう" ,
+		"original"	: "牛乳" ,
+		"chinese"	: "牛奶"
+	} ,
+	{
+		"word"		: "きょう" ,
+		"original"	: "今日" ,
+		"chinese"	: "今天、本日"
+	} ,
+	{
+		"word"		: "きょうしつ" ,
+		"original"	: "教室" ,
+		"chinese"	: "教室"
+	} ,
+	{
+		"word"		: "きょうだい" ,
+		"original"	: "兄弟" ,
+		"chinese"	: "兄弟"
+	} ,
+	{
+		"word"		: "きょねん" ,
+		"original"	: "去年" ,
+		"chinese"	: "去年"
+	} ,
+	{
+		"word"		: "きらい" ,
+		"original"	: "嫌い" ,
+		"chinese"	: "不喜歡"
+	} ,
+	{
+		"word"		: "きる" ,
+		"original"	: "切る、斬る" ,
+		"chinese"	: "斬、完結、完了"
+	} ,
+	{
+		"word"		: "きる" ,
+		"original"	: "着る" ,
+		"chinese"	: "穿"
+	} ,
+	{
+		"word"		: "きれい" ,
+		"original"	: "綺麗" ,
+		"chinese"	: "漂亮、美麗"
+	} ,
+	{
+		"word"		: "キロ（グラム）" ,
+		"original"	: "kilogramme" ,
+		"chinese"	: "公斤"
+	} ,
+	{
+		"word"		: "キロ（メートル）" ,
+		"original"	: "kilomètre" ,
+		"chinese"	: "公里"
+	} ,
+	{
+		"word"		: "ぎんこう" ,
+		"original"	: "銀行" ,
+		"chinese"	: "銀行"
+	} ,
+	{
+		"word"		: "きんようび" ,
+		"original"	: "金曜日" ,
+		"chinese"	: "星期五"
+	} ,
+	{
+		"word"		: "く" ,
+		"original"	: "九" ,
+		"chinese"	: "９個、９"
+	} ,
+	{
+		"word"		: "くすり" ,
+		"original"	: "薬" ,
+		"chinese"	: "藥"
+	} ,
+	{
+		"word"		: "ください" ,
+		"original"	: "下さい" ,
+		"chinese"	: "請"
+	} ,
+	{
+		"word"		: "くだもの" ,
+		"original"	: "果物" ,
+		"chinese"	: "水果"
+	} ,
+	{
+		"word"		: "くち" ,
+		"original"	: "口" ,
+		"chinese"	: "嘴"
+	} ,
+	{
+		"word"		: "くつ" ,
+		"original"	: "靴" ,
+		"chinese"	: "鞋"
+	} ,
+	{
+		"word"		: "くつした" ,
+		"original"	: "靴下" ,
+		"chinese"	: "襪子"
+	} ,
+	{
+		"word"		: "くに" ,
+		"original"	: "国" ,
+		"chinese"	: "國家"
+	} ,
+	{
+		"word"		: "くもり" ,
+		"original"	: "曇" ,
+		"chinese"	: "陰天"
+	} ,
+	{
+		"word"		: "くもる" ,
+		"original"	: "曇る" ,
+		"chinese"	: "天陰"
+	} ,
+	{
+		"word"		: "くらい" ,
+		"original"	: "暗い" ,
+		"chinese"	: "昏暗"
+	} ,
+	{
+		"word"		: "くらい//ぐらい" ,
+		"original"	: "〜位" ,
+		"chinese"	: "〜左右"
+	} ,
+	{
+		"word"		: "クラス" ,
+		"original"	: "class" ,
+		"chinese"	: "班級、等級"
+	} ,
+	{
+		"word"		: "グラス" ,
+		"original"	: "glass/grass" ,
+		"chinese"	: "玻璃杯、眼鏡//草"
+	} ,
+	{
+		"word"		: "くる" ,
+		"original"	: "来る" ,
+		"chinese"	: "來"
+	} ,
+	{
+		"word"		: "くるま" ,
+		"original"	: "車" ,
+		"chinese"	: "汽車、車"
+	} ,
+	{
+		"word"		: "くろ" ,
+		"original"	: "黒" ,
+		"chinese"	: "黑色"
+	} ,
+	{
+		"word"		: "くろい" ,
+		"original"	: "黒い" ,
+		"chinese"	: "黑色的、黑的"
+	} ,
+	{
+		"word"		: "けいかん" ,
+		"original"	: "警官" ,
+		"chinese"	: "警官"
+	} ,
+	{
+		"word"		: "けさ" ,
+		"original"	: "今朝" ,
+		"chinese"	: "今天早上、今晨"
+	} ,
+	{
+		"word"		: "けす" ,
+		"original"	: "消す" ,
+		"chinese"	: "熄滅、關掉、抹去、關閉、解除"
+	} ,
+	{
+		"word"		: "けっこう" ,
+		"original"	: "結構" ,
+		"chinese"	: "構造、結構//很好//相當"
+	} ,
+	{
+		"word"		: "けっこん（する）" ,
+		"original"	: "結婚（する）" ,
+		"chinese"	: "結婚"
+	} ,
+	{
+		"word"		: "げつようび" ,
+		"original"	: "月曜日" ,
+		"chinese"	: "星期一"
+	} ,
+	{
+		"word"		: "げんかん" ,
+		"original"	: "玄関" ,
+		"chinese"	: "門口、房子的正門"
+	} ,
+	{
+		"word"		: "げんき" ,
+		"original"	: "元気" ,
+		"chinese"	: "元氣、精力、精神"
+	} ,
+	{
+		"word"		: "こ" ,
+		"original"	: "〜個" ,
+		"chinese"	: "幾個"
+	} ,
+	{
+		"word"		: "ご" ,
+		"original"	: "五" ,
+		"chinese"	: "五、第五個"
+	} ,
+	{
+		"word"		: "ご" ,
+		"original"	: "〜語" ,
+		"chinese"	: "語"
+	} ,
+	{
+		"word"		: "コート(overcoat)" ,
+		"original"	: "overcoat" ,
+		"chinese"	: "外套"
+	} ,
+	{
+		"word"		: "コーヒー" ,
+		"original"	: "koffie" ,
+		"chinese"	: "咖啡"
+	} ,
+	{
+		"word"		: "こうえん" ,
+		"original"	: "公園" ,
+		"chinese"	: "公園"
+	} ,
+	{
+		"word"		: "こうさてん" ,
+		"original"	: "交差点" ,
+		"chinese"	: "十字路口"
+	} ,
+	{
+		"word"		: "こうちゃ" ,
+		"original"	: "紅茶" ,
+		"chinese"	: "紅茶"
+	} ,
+	{
+		"word"		: "こうばん" ,
+		"original"	: "交番" ,
+		"chinese"	: "派出所"
+	} ,
+	{
+		"word"		: "こえ" ,
+		"original"	: "声" ,
+		"chinese"	: "人的聲音、意見"
+	} ,
+	{
+		"word"		: "ここ" ,
+		"original"	: "此処" ,
+		"chinese"	: "這裡、這個時候"
+	} ,
+	{
+		"word"		: "ごご" ,
+		"original"	: "午後" ,
+		"chinese"	: "下午"
+	} ,
+	{
+		"word"		: "ここのか" ,
+		"original"	: "九日" ,
+		"chinese"	: "九日、九天、九號"
+	} ,
+	{
+		"word"		: "ここのつ" ,
+		"original"	: "九つ" ,
+		"chinese"	: "九個、九歲"
+	} ,
+	{
+		"word"		: "ごぜん" ,
+		"original"	: "午前" ,
+		"chinese"	: "上午"
+	} ,
+	{
+		"word"		: "こたえる" ,
+		"original"	: "答える" ,
+		"chinese"	: "答覆、報答"
+	} ,
+	{
+		"word"		: "ごちそうさま（でした）。" ,
+		"original"	: "御馳走様（でした）。" ,
+		"chinese"	: "多謝您的款待、我已經吃飽了"
+	} ,
+	{
+		"word"		: "こちら" ,
+		"original"	: "こちら" ,
+		"chinese"	: "這裡、這邊、這位、這方面、我們"
+	} ,
+	{
+		"word"		: "こちらこそ。" ,
+		"original"	: "こちらこそ。" ,
+		"chinese"	: "哪兒的話、不敢當"
+	} ,
+	{
+		"word"		: "こっち" ,
+		"original"	: "こっち" ,
+		"chinese"	: "這邊、這裡、這方面、我們、這位"
+	} ,
+	{
+		"word"		: "コップ" ,
+		"original"	: "kop" ,
+		"chinese"	: "杯子"
+	} ,
+	{
+		"word"		: "ことし" ,
+		"original"	: "今年" ,
+		"chinese"	: "今年"
+	} ,
+	{
+		"word"		: "ことば" ,
+		"original"	: "言葉" ,
+		"chinese"	: "詞、話、語言"
+	} ,
+	{
+		"word"		: "こども" ,
+		"original"	: "子供" ,
+		"chinese"	: "孩子、兒童"
+	} ,
+	{
+		"word"		: "この" ,
+		"original"	: "此の" ,
+		"chinese"	: "這、這個"
+	} ,
+	{
+		"word"		: "ごはん" ,
+		"original"	: "御飯" ,
+		"chinese"	: "飯"
+	} ,
+	{
+		"word"		: "コピー（する）" ,
+		"original"	: "copy" ,
+		"chinese"	: "拷貝、複製、副本"
+	} ,
+	{
+		"word"		: "こまる" ,
+		"original"	: "困る" ,
+		"chinese"	: "為難、難辦"
+	} ,
+	{
+		"word"		: "ごめんください。" ,
+		"original"	: "御免下さい。" ,
+		"chinese"	: "有人在嗎？"
+	} ,
+	{
+		"word"		: "ごめんなさい。" ,
+		"original"	: "御免なさい。" ,
+		"chinese"	: "對不起"
+	} ,
+	{
+		"word"		: "これ" ,
+		"original"	: "此れ、是" ,
+		"chinese"	: "此、這"
+	} ,
+	{
+		"word"		: "ころ//ごろ" ,
+		"original"	: "〜頃" ,
+		"chinese"	: "時候、時期"
+	} ,
+	{
+		"word"		: "こんげつ" ,
+		"original"	: "今月" ,
+		"chinese"	: "這個月"
+	} ,
+	{
+		"word"		: "こんしゅう" ,
+		"original"	: "今週" ,
+		"chinese"	: "這星期"
+	} ,
+	{
+		"word"		: "こんな" ,
+		"original"	: "こんな" ,
+		"chinese"	: "這樣的"
+	} ,
+	{
+		"word"		: "こんにちは。" ,
+		"original"	: "今日は。" ,
+		"chinese"	: "您好"
+	} ,
+	{
+		"word"		: "こんばん" ,
+		"original"	: "今晩" ,
+		"chinese"	: "今晚、今夜"
+	} ,
+	{
+		"word"		: "こんばんは。" ,
+		"original"	: "今晩は。" ,
+		"chinese"	: "晚上好"
+	} ,
+	{
+		"word"		: "さあ" ,
+		"original"	: "さあ" ,
+		"chinese"	: "喂（用於勸誘，催促時）、呀（用於躊躇，遅疑時）、啊（用於喜悦，驚訝）"
+	} ,
+	{
+		"word"		: "さい" ,
+		"original"	: "〜歳" ,
+		"chinese"	: "幾歲"
+	} ,
+	{
+		"word"		: "さいふ" ,
+		"original"	: "財布" ,
+		"chinese"	: "錢包"
+	} ,
+	{
+		"word"		: "さかな" ,
+		"original"	: "魚" ,
+		"chinese"	: "魚、餘類"
+	} ,
+	{
+		"word"		: "さき" ,
+		"original"	: "先" ,
+		"chinese"	: "尖端、前頭、先、先前、前方、目的地、將來、前途"
+	} ,
+	{
+		"word"		: "さく" ,
+		"original"	: "咲く" ,
+		"chinese"	: "(花)開"
+	} ,
+	{
+		"word"		: "さくぶん" ,
+		"original"	: "作文" ,
+		"chinese"	: "作文、寫文章"
+	} ,
+	{
+		"word"		: "さす" ,
+		"original"	: "さす「傘をさす」" ,
+		"chinese"	: "舉、（撐傘、打傘）"
+	} ,
+	{
+		"word"		: "さつ" ,
+		"original"	: "〜冊" ,
+		"chinese"	: "本、冊"
+	} ,
+	{
+		"word"		: "ざっし" ,
+		"original"	: "雑誌" ,
+		"chinese"	: "雜誌"
+	} ,
+	{
+		"word"		: "さとう" ,
+		"original"	: "砂糖" ,
+		"chinese"	: "砂糖"
+	} ,
+	{
+		"word"		: "さむい" ,
+		"original"	: "寒い" ,
+		"chinese"	: "寒冷、寒酸、簡陋"
+	} ,
+	{
+		"word"		: "さよなら//さようなら。" ,
+		"original"	: "さよなら//左様なら。" ,
+		"chinese"	: "再見、再會"
+	} ,
+	{
+		"word"		: "さらいねん" ,
+		"original"	: "再来年" ,
+		"chinese"	: "後年"
+	} ,
+	{
+		"word"		: "さん" ,
+		"original"	: "三" ,
+		"chinese"	: "三、三個"
+	} ,
+	{
+		"word"		: "さん" ,
+		"original"	: "〜さん「様」" ,
+		"chinese"	: "對人的尊稱（「樣」的口語）"
+	} ,
+	{
+		"word"		: "さんぽ（する）" ,
+		"original"	: "散歩（する）" ,
+		"chinese"	: "散步"
+	} ,
+	{
+		"word"		: "し" ,
+		"original"	: "四" ,
+		"chinese"	: "四"
+	} ,
+	{
+		"word"		: "じ" ,
+		"original"	: "〜時" ,
+		"chinese"	: "點鐘"
+	} ,
+	{
+		"word"		: "しお" ,
+		"original"	: "塩" ,
+		"chinese"	: "鹽、食鹽"
+	} ,
+	{
+		"word"		: "しかし" ,
+		"original"	: "然し" ,
+		"chinese"	: "可是、但是"
+	} ,
+	{
+		"word"		: "じかん" ,
+		"original"	: "時間" ,
+		"chinese"	: "時間、時刻、小時"
+	} ,
+	{
+		"word"		: "じかん" ,
+		"original"	: "〜時間" ,
+		"chinese"	: "小時、鐘頭"
+	} ,
+	{
+		"word"		: "しごと" ,
+		"original"	: "仕事" ,
+		"chinese"	: "工作、職業"
+	} ,
+	{
+		"word"		: "じしょ" ,
+		"original"	: "辞書" ,
+		"chinese"	: "辭典、辭書"
+	} ,
+	{
+		"word"		: "しずか" ,
+		"original"	: "静か" ,
+		"chinese"	: "靜、肅靜、安靜"
+	} ,
+	{
+		"word"		: "した" ,
+		"original"	: "下" ,
+		"chinese"	: "下、下面"
+	} ,
+	{
+		"word"		: "しち" ,
+		"original"	: "七" ,
+		"chinese"	: "七"
+	} ,
+	{
+		"word"		: "しつもん" ,
+		"original"	: "質問" ,
+		"chinese"	: "提問、發問、詢問"
+	} ,
+	{
+		"word"		: "しつれいしました。" ,
+		"original"	: "失礼-しました。" ,
+		"chinese"	: "告辭、再見、請原諒"
+	} ,
+	{
+		"word"		: "しつれいします。" ,
+		"original"	: "失礼-します。" ,
+		"chinese"	: "告辭、再見、對不起"
+	} ,
+	{
+		"word"		: "じてんしゃ" ,
+		"original"	: "自転車" ,
+		"chinese"	: "腳踏車"
+	} ,
+	{
+		"word"		: "じどうしゃ" ,
+		"original"	: "自動車" ,
+		"chinese"	: "汽車"
+	} ,
+	{
+		"word"		: "しぬ" ,
+		"original"	: "死ぬ" ,
+		"chinese"	: "死、休止"
+	} ,
+	{
+		"word"		: "じびき" ,
+		"original"	: "字引" ,
+		"chinese"	: "字典、辭典"
+	} ,
+	{
+		"word"		: "じぶん" ,
+		"original"	: "自分" ,
+		"chinese"	: "自己"
+	} ,
+	{
+		"word"		: "しまる" ,
+		"original"	: "閉まる" ,
+		"chinese"	: "關閉、緊閉"
+	} ,
+	{
+		"word"		: "しめる" ,
+		"original"	: "閉める" ,
+		"chinese"	: "關上"
+	} ,
+	{
+		"word"		: "しめる" ,
+		"original"	: "締める" ,
+		"chinese"	: "繫上、繫緊、繃緊"
+	} ,
+	{
+		"word"		: "じゃ//じゃあ" ,
+		"original"	: "じゃ//じゃあ" ,
+		"chinese"	: "那麼"
+	} ,
+	{
+		"word"		: "しゃしん" ,
+		"original"	: "写真" ,
+		"chinese"	: "照片、照相、相片"
+	} ,
+	{
+		"word"		: "シャツ" ,
+		"original"	: "shirt" ,
+		"chinese"	: "襯衫"
+	} ,
+	{
+		"word"		: "シャワー" ,
+		"original"	: "shower" ,
+		"chinese"	: "淋浴、驟雨"
+	} ,
+	{
+		"word"		: "じゅう" ,
+		"original"	: "〜中" ,
+		"chinese"	: "整個、全"
+	} ,
+	{
+		"word"		: "じゅう" ,
+		"original"	: "十" ,
+		"chinese"	: "十、第十"
+	} ,
+	{
+		"word"		: "しゅうかん" ,
+		"original"	: "〜週間" ,
+		"chinese"	: "一星期"
+	} ,
+	{
+		"word"		: "じゅぎょう" ,
+		"original"	: "授業" ,
+		"chinese"	: "授課"
+	} ,
+	{
+		"word"		: "しゅくだい" ,
+		"original"	: "宿題" ,
+		"chinese"	: "課外作業、習題"
+	} ,
+	{
+		"word"		: "じょうず" ,
+		"original"	: "上手" ,
+		"chinese"	: "好、擅長、善於、能手、拿手"
+	} ,
+	{
+		"word"		: "じょうぶ" ,
+		"original"	: "丈夫" ,
+		"chinese"	: "健康、健壯、牢固"
+	} ,
+	{
+		"word"		: "しょうゆ" ,
+		"original"	: "醤油" ,
+		"chinese"	: "醬油"
+	} ,
+	{
+		"word"		: "しょくどう" ,
+		"original"	: "食堂" ,
+		"chinese"	: "飯館、餐廳"
+	} ,
+	{
+		"word"		: "しる" ,
+		"original"	: "知る" ,
+		"chinese"	: "知道、得知、曉得"
+	} ,
+	{
+		"word"		: "しろ" ,
+		"original"	: "白" ,
+		"chinese"	: "白色、白"
+	} ,
+	{
+		"word"		: "しろい" ,
+		"original"	: "白い" ,
+		"chinese"	: "白色"
+	} ,
+	{
+		"word"		: "じん" ,
+		"original"	: "〜人" ,
+		"chinese"	: "〜人"
+	} ,
+	{
+		"word"		: "しんぶん" ,
+		"original"	: "新聞" ,
+		"chinese"	: "報紙"
+	} ,
+	{
+		"word"		: "すいようび" ,
+		"original"	: "水曜日" ,
+		"chinese"	: "星期三"
+	} ,
+	{
+		"word"		: "すう" ,
+		"original"	: "吸う" ,
+		"chinese"	: "吸、吸入"
+	} ,
+	{
+		"word"		: "スカート" ,
+		"original"	: "skirt" ,
+		"chinese"	: "裙子"
+	} ,
+	{
+		"word"		: "すき" ,
+		"original"	: "好き" ,
+		"chinese"	: "喜歡、喜愛、愛好、嗜好"
+	} ,
+	{
+		"word"		: "すぎ" ,
+		"original"	: "〜過ぎ" ,
+		"chinese"	: "超過〜、(時間等)過了"
+	} ,
+	{
+		"word"		: "すぐ（に）" ,
+		"original"	: "直ぐ（に）" ,
+		"chinese"	: "馬上、立刻"
+	} ,
+	{
+		"word"		: "すくない" ,
+		"original"	: "少ない" ,
+		"chinese"	: "少、不多"
+	} ,
+	{
+		"word"		: "すこし" ,
+		"original"	: "少し" ,
+		"chinese"	: "稍微、一點、少量"
+	} ,
+	{
+		"word"		: "すずしい" ,
+		"original"	: "涼しい" ,
+		"chinese"	: "涼快、涼爽"
+	} ,
+	{
+		"word"		: "ずつ" ,
+		"original"	: "〜ずつ" ,
+		"chinese"	: "每、各（接數詞後表平均）"
+	} ,
+	{
+		"word"		: "ストーブ" ,
+		"original"	: "stove" ,
+		"chinese"	: "火爐"
+	} ,
+	{
+		"word"		: "スプーン" ,
+		"original"	: "spoon" ,
+		"chinese"	: "匙子、湯匙"
+	} ,
+	{
+		"word"		: "スポーツ" ,
+		"original"	: "sports" ,
+		"chinese"	: "(體育)運動"
+	} ,
+	{
+		"word"		: "ズボン" ,
+		"original"	: "jupon" ,
+		"chinese"	: "褲子"
+	} ,
+	{
+		"word"		: "すみません。" ,
+		"original"	: "済みません。" ,
+		"chinese"	: "對不起、麻煩"
+	} ,
+	{
+		"word"		: "すむ" ,
+		"original"	: "住む" ,
+		"chinese"	: "居住"
+	} ,
+	{
+		"word"		: "スリッパ" ,
+		"original"	: "slipper" ,
+		"chinese"	: "拖鞋"
+	} ,
+	{
+		"word"		: "する" ,
+		"original"	: "為る「行なう」" ,
+		"chinese"	: "做"
+	} ,
+	{
+		"word"		: "すわる" ,
+		"original"	: "座る" ,
+		"chinese"	: "坐"
+	} ,
+	{
+		"word"		: "セーター" ,
+		"original"	: "sweater" ,
+		"chinese"	: "毛衣"
+	} ,
+	{
+		"word"		: "せい" ,
+		"original"	: "背" ,
+		"chinese"	: "身長"
+	} ,
+	{
+		"word"		: "せいと" ,
+		"original"	: "生徒" ,
+		"chinese"	: "學生"
+	} ,
+	{
+		"word"		: "せっけん" ,
+		"original"	: "石鹸" ,
+		"chinese"	: "肥皂"
+	} ,
+	{
+		"word"		: "せびろ" ,
+		"original"	: "背広" ,
+		"chinese"	: "男士西服"
+	} ,
+	{
+		"word"		: "せまい" ,
+		"original"	: "狭い" ,
+		"chinese"	: "(面積)狹小、狭窄的"
+	} ,
+	{
+		"word"		: "ゼロ" ,
+		"original"	: "zero" ,
+		"chinese"	: "零"
+	} ,
+	{
+		"word"		: "せん" ,
+		"original"	: "千" ,
+		"chinese"	: "千"
+	} ,
+	{
+		"word"		: "せんげつ" ,
+		"original"	: "先月" ,
+		"chinese"	: "上個月"
+	} ,
+	{
+		"word"		: "せんしゅう" ,
+		"original"	: "先週" ,
+		"chinese"	: "上星期"
+	} ,
+	{
+		"word"		: "せんせい" ,
+		"original"	: "先生" ,
+		"chinese"	: "老師、教師"
+	} ,
+	{
+		"word"		: "せんたく（する）" ,
+		"original"	: "洗濯（する）" ,
+		"chinese"	: "洗濯、洗衣服"
+	} ,
+	{
+		"word"		: "ぜんぶ" ,
+		"original"	: "全部" ,
+		"chinese"	: "全部、全體"
+	} ,
+	{
+		"word"		: "そう" ,
+		"original"	: "そう「そうです」" ,
+		"chinese"	: "是、沒有錯"
+	} ,
+	{
+		"word"		: "そうじ（する）" ,
+		"original"	: "掃除（する）" ,
+		"chinese"	: "掃除、打掃"
+	} ,
+	{
+		"word"		: "そうして//そして" ,
+		"original"	: "そうして//そして" ,
+		"chinese"	: "然後、於是、而且"
+	} ,
+	{
+		"word"		: "そこ" ,
+		"original"	: "其処" ,
+		"chinese"	: "那邊、那裏"
+	} ,
+	{
+		"word"		: "そちら" ,
+		"original"	: "そちら" ,
+		"chinese"	: "那邊、那個"
+	} ,
+	{
+		"word"		: "そっち" ,
+		"original"	: "そっち" ,
+		"chinese"	: "那邊、那個"
+	} ,
+	{
+		"word"		: "そと" ,
+		"original"	: "外" ,
+		"chinese"	: "外面、室外"
+	} ,
+	{
+		"word"		: "その" ,
+		"original"	: "其の" ,
+		"chinese"	: "那、那個"
+	} ,
+	{
+		"word"		: "そば" ,
+		"original"	: "側" ,
+		"chinese"	: "旁邊、附近、局外"
+	} ,
+	{
+		"word"		: "そら" ,
+		"original"	: "空" ,
+		"chinese"	: "天空、天氣、虛假"
+	} ,
+	{
+		"word"		: "それ" ,
+		"original"	: "其れ" ,
+		"chinese"	: "那、那個"
+	} ,
+	{
+		"word"		: "それから" ,
+		"original"	: "其れから" ,
+		"chinese"	: "接著、然後"
+	} ,
+	{
+		"word"		: "それでは" ,
+		"original"	: "其れでは" ,
+		"chinese"	: "那麼、那樣的話"
+	} ,
+	{
+		"word"		: "だい" ,
+		"original"	: "〜台" ,
+		"chinese"	: "輛、台"
+	} ,
+	{
+		"word"		: "だいがく" ,
+		"original"	: "大学" ,
+		"chinese"	: "大學"
+	} ,
+	{
+		"word"		: "たいしかん" ,
+		"original"	: "大使館" ,
+		"chinese"	: "大使館"
+	} ,
+	{
+		"word"		: "だいじょうぶ" ,
+		"original"	: "大丈夫" ,
+		"chinese"	: "不要緊、沒關係"
+	} ,
+	{
+		"word"		: "だいすき" ,
+		"original"	: "大好き" ,
+		"chinese"	: "最喜歡"
+	} ,
+	{
+		"word"		: "たいせつ" ,
+		"original"	: "大切" ,
+		"chinese"	: "重要、寶貴"
+	} ,
+	{
+		"word"		: "だいどころ" ,
+		"original"	: "台所" ,
+		"chinese"	: "廚房"
+	} ,
+	{
+		"word"		: "たいへん" ,
+		"original"	: "大変「たいへん暑い」" ,
+		"chinese"	: "很、非常"
+	} ,
+	{
+		"word"		: "たいへん" ,
+		"original"	: "大変「それはたいへんですね」" ,
+		"chinese"	: "嚴重、不得了"
+	} ,
+	{
+		"word"		: "たかい" ,
+		"original"	: "高い「高い山」" ,
+		"chinese"	: "高"
+	} ,
+	{
+		"word"		: "たかい" ,
+		"original"	: "高い「値段が高い」" ,
+		"chinese"	: "(價錢)貴"
+	} ,
+	{
+		"word"		: "たくさん" ,
+		"original"	: "沢山" ,
+		"chinese"	: "許多、很多"
+	} ,
+	{
+		"word"		: "タクシー" ,
+		"original"	: "taxi" ,
+		"chinese"	: "計程車"
+	} ,
+	{
+		"word"		: "だけ" ,
+		"original"	: "〜だけ" ,
+		"chinese"	: "只〜"
+	} ,
+	{
+		"word"		: "だす" ,
+		"original"	: "出す" ,
+		"chinese"	: "拿出、提出"
+	} ,
+	{
+		"word"		: "たち" ,
+		"original"	: "〜達" ,
+		"chinese"	: "表示人的複數"
+	} ,
+	{
+		"word"		: "たつ" ,
+		"original"	: "立つ" ,
+		"chinese"	: "立、站、起"
+	} ,
+	{
+		"word"		: "たて" ,
+		"original"	: "縦" ,
+		"chinese"	: "豎、長"
+	} ,
+	{
+		"word"		: "たてもの" ,
+		"original"	: "建物" ,
+		"chinese"	: "房屋、建築物"
+	} ,
+	{
+		"word"		: "たのしい" ,
+		"original"	: "楽しい" ,
+		"chinese"	: "快樂、愉快"
+	} ,
+	{
+		"word"		: "たのむ" ,
+		"original"	: "頼む" ,
+		"chinese"	: "拜託、懇求"
+	} ,
+	{
+		"word"		: "たばこ" ,
+		"original"	: "煙草" ,
+		"chinese"	: "香煙、菸"
+	} ,
+	{
+		"word"		: "たぶん" ,
+		"original"	: "多分" ,
+		"chinese"	: "大概、或許"
+	} ,
+	{
+		"word"		: "たべもの" ,
+		"original"	: "食べ物" ,
+		"chinese"	: "吃的東西"
+	} ,
+	{
+		"word"		: "たべる" ,
+		"original"	: "食べる" ,
+		"chinese"	: "吃"
+	} ,
+	{
+		"word"		: "たまご" ,
+		"original"	: "卵" ,
+		"chinese"	: "卵、雞蛋"
+	} ,
+	{
+		"word"		: "だれ" ,
+		"original"	: "誰" ,
+		"chinese"	: "誰、無論什麼人"
+	} ,
+	{
+		"word"		: "だれか" ,
+		"original"	: "誰か" ,
+		"chinese"	: "誰啊"
+	} ,
+	{
+		"word"		: "たんじょうび" ,
+		"original"	: "誕生日" ,
+		"chinese"	: "生日"
+	} ,
+	{
+		"word"		: "だんだん" ,
+		"original"	: "段々" ,
+		"chinese"	: "逐漸、漸漸"
+	} ,
+	{
+		"word"		: "ちいさい" ,
+		"original"	: "小さい" ,
+		"chinese"	: "(體積等)小"
+	} ,
+	{
+		"word"		: "ちいさな" ,
+		"original"	: "小さな" ,
+		"chinese"	: "微小的"
+	} ,
+	{
+		"word"		: "ちかい" ,
+		"original"	: "近い" ,
+		"chinese"	: "(距離)近、接近的"
+	} ,
+	{
+		"word"		: "ちがう" ,
+		"original"	: "違う" ,
+		"chinese"	: "不同、不一致"
+	} ,
+	{
+		"word"		: "ちかく" ,
+		"original"	: "近く" ,
+		"chinese"	: "附近、接近"
+	} ,
+	{
+		"word"		: "ちかてつ" ,
+		"original"	: "地下鉄" ,
+		"chinese"	: "地下鐵"
+	} ,
+	{
+		"word"		: "ちず" ,
+		"original"	: "地図" ,
+		"chinese"	: "地圖"
+	} ,
+	{
+		"word"		: "ちち" ,
+		"original"	: "父" ,
+		"chinese"	: "父親"
+	} ,
+	{
+		"word"		: "ちゃいろ" ,
+		"original"	: "茶色" ,
+		"chinese"	: "棕色"
+	} ,
+	{
+		"word"		: "ちゃわん" ,
+		"original"	: "茶碗" ,
+		"chinese"	: "茶碗、飯碗"
+	} ,
+	{
+		"word"		: "ちゅう" ,
+		"original"	: "〜中" ,
+		"chinese"	: "〜之中、在〜里面、正在〜中"
+	} ,
+	{
+		"word"		: "ちょうど" ,
+		"original"	: "丁度" ,
+		"chinese"	: "正好、剛好、整整"
+	} ,
+	{
+		"word"		: "ちょっと" ,
+		"original"	: "一寸" ,
+		"chinese"	: "稍微、一點、等一下"
+	} ,
+	{
+		"word"		: "ついたち" ,
+		"original"	: "一日" ,
+		"chinese"	: "一號"
+	} ,
+	{
+		"word"		: "つかう" ,
+		"original"	: "使う" ,
+		"chinese"	: "使用"
+	} ,
+	{
+		"word"		: "つかれる" ,
+		"original"	: "疲れる" ,
+		"chinese"	: "疲勞、疲憊"
+	} ,
+	{
+		"word"		: "つぎ" ,
+		"original"	: "次" ,
+		"chinese"	: "下一個、接下來"
+	} ,
+	{
+		"word"		: "つく" ,
+		"original"	: "着く" ,
+		"chinese"	: "到達"
+	} ,
+	{
+		"word"		: "つくえ" ,
+		"original"	: "机" ,
+		"chinese"	: "桌子"
+	} ,
+	{
+		"word"		: "つくる" ,
+		"original"	: "作る" ,
+		"chinese"	: "做、作、製作"
+	} ,
+	{
+		"word"		: "つける" ,
+		"original"	: "点ける「電灯をつける」" ,
+		"chinese"	: "開(燈)"
+	} ,
+	{
+		"word"		: "つとめる" ,
+		"original"	: "勤める" ,
+		"chinese"	: "工作、擔任"
+	} ,
+	{
+		"word"		: "つまらない" ,
+		"original"	: "詰まらない" ,
+		"chinese"	: "無聊的、沒趣的"
+	} ,
+	{
+		"word"		: "つめたい" ,
+		"original"	: "冷たい" ,
+		"chinese"	: "涼、冷、冷淡"
+	} ,
+	{
+		"word"		: "つよい" ,
+		"original"	: "強い" ,
+		"chinese"	: "強、有力、強韌"
+	} ,
+	{
+		"word"		: "て" ,
+		"original"	: "手" ,
+		"chinese"	: "手"
+	} ,
+	{
+		"word"		: "テープ" ,
+		"original"	: "tape" ,
+		"chinese"	: "紙帶、錄音帶"
+	} ,
+	{
+		"word"		: "テーブル" ,
+		"original"	: "table" ,
+		"chinese"	: "桌子"
+	} ,
+	{
+		"word"		: "テープレコーダー" ,
+		"original"	: "taperecorder" ,
+		"chinese"	: "卡式收音機、卡帶錄音機"
+	} ,
+	{
+		"word"		: "でかける" ,
+		"original"	: "出掛" ,
+		"chinese"	: "外出、到…去、出去、要出去走"
+	} ,
+	{
+		"word"		: "てがみ" ,
+		"original"	: "手紙" ,
+		"chinese"	: "信、書信"
+	} ,
+	{
+		"word"		: "できる" ,
+		"original"	: "出来る「英語ができる」" ,
+		"chinese"	: "會、能、成績好、有才能"
+	} ,
+	{
+		"word"		: "でぐち" ,
+		"original"	: "出口" ,
+		"chinese"	: "出口"
+	} ,
+	{
+		"word"		: "テスト" ,
+		"original"	: "test" ,
+		"chinese"	: "考試、檢查"
+	} ,
+	{
+		"word"		: "では" ,
+		"original"	: "では" ,
+		"chinese"	: "那麼"
+	} ,
+	{
+		"word"		: "では，また。" ,
+		"original"	: "では，-又。" ,
+		"chinese"	: "那麼、再見"
+	} ,
+	{
+		"word"		: "デパート" ,
+		"original"	: "departmentstore" ,
+		"chinese"	: "百貨公司"
+	} ,
+	{
+		"word"		: "でも" ,
+		"original"	: "でも" ,
+		"chinese"	: "但是、譬如、或者"
+	} ,
+	{
+		"word"		: "でる" ,
+		"original"	: "出る" ,
+		"chinese"	: "出去、出來"
+	} ,
+	{
+		"word"		: "テレビ" ,
+		"original"	: "television" ,
+		"chinese"	: "電視"
+	} ,
+	{
+		"word"		: "てんき" ,
+		"original"	: "天気" ,
+		"chinese"	: "天氣、情緒、晴天"
+	} ,
+	{
+		"word"		: "でんき" ,
+		"original"	: "電気" ,
+		"chinese"	: "電、電力、電燈"
+	} ,
+	{
+		"word"		: "でんしゃ" ,
+		"original"	: "電車" ,
+		"chinese"	: "(有軌的)電車"
+	} ,
+	{
+		"word"		: "でんわ" ,
+		"original"	: "電話" ,
+		"chinese"	: "電話"
+	} ,
+	{
+		"word"		: "と" ,
+		"original"	: "戸" ,
+		"chinese"	: "門、大門、戶、窗戶"
+	} ,
+	{
+		"word"		: "ど" ,
+		"original"	: "〜度" ,
+		"chinese"	: "尺度"
+	} ,
+	{
+		"word"		: "ドア" ,
+		"original"	: "door" ,
+		"chinese"	: "門"
+	} ,
+	{
+		"word"		: "トイレ" ,
+		"original"	: "toilet" ,
+		"chinese"	: "廁所"
+	} ,
+	{
+		"word"		: "どう" ,
+		"original"	: "どう" ,
+		"chinese"	: "怎樣、如何"
+	} ,
+	{
+		"word"		: "どうして" ,
+		"original"	: "どうして" ,
+		"chinese"	: "為什麼、如何的、相反"
+	} ,
+	{
+		"word"		: "どうぞ" ,
+		"original"	: "どうぞ" ,
+		"chinese"	: "請、可以、請吧、設法"
+	} ,
+	{
+		"word"		: "どうぶつ" ,
+		"original"	: "動物" ,
+		"chinese"	: "動物"
+	} ,
+	{
+		"word"		: "どうも" ,
+		"original"	: "どうも" ,
+		"chinese"	: "怎麼也、總是、實在//實在、太、謝謝"
+	} ,
+	{
+		"word"		: "とお" ,
+		"original"	: "十" ,
+		"chinese"	: "十、十歲"
+	} ,
+	{
+		"word"		: "とおい" ,
+		"original"	: "遠い" ,
+		"chinese"	: "遠、長、久"
+	} ,
+	{
+		"word"		: "とおか" ,
+		"original"	: "十日" ,
+		"chinese"	: "十天、十號"
+	} ,
+	{
+		"word"		: "とき" ,
+		"original"	: "〜時" ,
+		"chinese"	: "時"
+	} ,
+	{
+		"word"		: "ときどき" ,
+		"original"	: "時々" ,
+		"chinese"	: "有時候、時常//應時"
+	} ,
+	{
+		"word"		: "とけい" ,
+		"original"	: "時計" ,
+		"chinese"	: "時鐘、鐘錶"
+	} ,
+	{
+		"word"		: "どこ" ,
+		"original"	: "何処" ,
+		"chinese"	: "何處、那裡"
+	} ,
+	{
+		"word"		: "ところ" ,
+		"original"	: "所" ,
+		"chinese"	: "地點、地方、場所"
+	} ,
+	{
+		"word"		: "とし" ,
+		"original"	: "年" ,
+		"chinese"	: "年"
+	} ,
+	{
+		"word"		: "としょかん" ,
+		"original"	: "図書館" ,
+		"chinese"	: "圖書館"
+	} ,
+	{
+		"word"		: "どちら" ,
+		"original"	: "何方" ,
+		"chinese"	: "哪邊、哪個"
+	} ,
+	{
+		"word"		: "どっち" ,
+		"original"	: "何方" ,
+		"chinese"	: "哪邊"
+	} ,
+	{
+		"word"		: "とても" ,
+		"original"	: "とても" ,
+		"chinese"	: "非常、總之、（與否定呼應）無論如何也"
+	} ,
+	{
+		"word"		: "どなた" ,
+		"original"	: "どなた" ,
+		"chinese"	: "哪位"
+	} ,
+	{
+		"word"		: "となり" ,
+		"original"	: "隣" ,
+		"chinese"	: "鄰近、鄰居"
+	} ,
+	{
+		"word"		: "どの" ,
+		"original"	: "何の「どの人」" ,
+		"chinese"	: "哪個、哪位"
+	} ,
+	{
+		"word"		: "とぶ" ,
+		"original"	: "飛ぶ" ,
+		"chinese"	: "飛翔、飛行"
+	} ,
+	{
+		"word"		: "とまる" ,
+		"original"	: "止まる" ,
+		"chinese"	: "停止、止住"
+	} ,
+	{
+		"word"		: "ともだち" ,
+		"original"	: "友達" ,
+		"chinese"	: "朋友"
+	} ,
+	{
+		"word"		: "どようび" ,
+		"original"	: "土曜日" ,
+		"chinese"	: "星期六"
+	} ,
+	{
+		"word"		: "とり" ,
+		"original"	: "鳥" ,
+		"chinese"	: "鳥"
+	} ,
+	{
+		"word"		: "とりにく" ,
+		"original"	: "鳥肉" ,
+		"chinese"	: "雞肉"
+	} ,
+	{
+		"word"		: "とる" ,
+		"original"	: "取る" ,
+		"chinese"	: "取得、拿"
+	} ,
+	{
+		"word"		: "とる" ,
+		"original"	: "撮る" ,
+		"chinese"	: "攝影、照相"
+	} ,
+	{
+		"word"		: "どれ" ,
+		"original"	: "どれ" ,
+		"chinese"	: "哪個"
+	} ,
+	{
+		"word"		: "どんな" ,
+		"original"	: "どんな" ,
+		"chinese"	: "怎樣的、什麼樣的"
+	} ,
+	{
+		"word"		: "ない" ,
+		"original"	: "無い" ,
+		"chinese"	: "沒有"
+	} ,
+	{
+		"word"		: "ナイフ" ,
+		"original"	: "knife" ,
+		"chinese"	: "刀子"
+	} ,
+	{
+		"word"		: "なか" ,
+		"original"	: "中" ,
+		"chinese"	: "內部、中間"
+	} ,
+	{
+		"word"		: "ながい" ,
+		"original"	: "長い、永い" ,
+		"chinese"	: "長、長久"
+	} ,
+	{
+		"word"		: "ながら" ,
+		"original"	: "乍ら「〜しながら」" ,
+		"chinese"	: "原封不動"
+	} ,
+	{
+		"word"		: "なく" ,
+		"original"	: "鳴く" ,
+		"chinese"	: "鳴叫"
+	} ,
+	{
+		"word"		: "なくす" ,
+		"original"	: "無くす" ,
+		"chinese"	: "喪失"
+	} ,
+	{
+		"word"		: "なぜ" ,
+		"original"	: "何故" ,
+		"chinese"	: "為何、為什麼"
+	} ,
+	{
+		"word"		: "なつ" ,
+		"original"	: "夏" ,
+		"chinese"	: "夏天"
+	} ,
+	{
+		"word"		: "なつやすみ" ,
+		"original"	: "夏休み" ,
+		"chinese"	: "暑假"
+	} ,
+	{
+		"word"		: "など" ,
+		"original"	: "〜等" ,
+		"chinese"	: "〜之類、等等"
+	} ,
+	{
+		"word"		: "ななつ" ,
+		"original"	: "七つ" ,
+		"chinese"	: "七個、七歳"
+	} ,
+	{
+		"word"		: "なに//なん" ,
+		"original"	: "何" ,
+		"chinese"	: "什麼"
+	} ,
+	{
+		"word"		: "なのか" ,
+		"original"	: "七日" ,
+		"chinese"	: "七天、七號"
+	} ,
+	{
+		"word"		: "なまえ" ,
+		"original"	: "名前" ,
+		"chinese"	: "名稱、名字"
+	} ,
+	{
+		"word"		: "ならう" ,
+		"original"	: "習う" ,
+		"chinese"	: "學習"
+	} ,
+	{
+		"word"		: "ならぶ" ,
+		"original"	: "並ぶ" ,
+		"chinese"	: "排列、兼備"
+	} ,
+	{
+		"word"		: "ならべる" ,
+		"original"	: "並べる" ,
+		"chinese"	: "並列、列舉、陳列、排列"
+	} ,
+	{
+		"word"		: "なる" ,
+		"original"	: "為る「春になる」" ,
+		"chinese"	: "成為、變成"
+	} ,
+	{
+		"word"		: "なん〜" ,
+		"original"	: "何〜" ,
+		"chinese"	: "什麼〜"
+	} ,
+	{
+		"word"		: "に" ,
+		"original"	: "二" ,
+		"chinese"	: "二"
+	} ,
+	{
+		"word"		: "にぎやか" ,
+		"original"	: "賑やか" ,
+		"chinese"	: "熱鬧、繁華"
+	} ,
+	{
+		"word"		: "にく" ,
+		"original"	: "肉" ,
+		"chinese"	: "肌肉、肉類、果肉"
+	} ,
+	{
+		"word"		: "にし" ,
+		"original"	: "西" ,
+		"chinese"	: "西方"
+	} ,
+	{
+		"word"		: "にち" ,
+		"original"	: "〜日" ,
+		"chinese"	: "天、號"
+	} ,
+	{
+		"word"		: "にちようび" ,
+		"original"	: "日曜日" ,
+		"chinese"	: "星期天"
+	} ,
+	{
+		"word"		: "にもつ" ,
+		"original"	: "荷物" ,
+		"chinese"	: "行李、貨物、負擔、累贅"
+	} ,
+	{
+		"word"		: "ニュース" ,
+		"original"	: "news" ,
+		"chinese"	: "新聞"
+	} ,
+	{
+		"word"		: "にわ" ,
+		"original"	: "庭" ,
+		"chinese"	: "院子、庭院"
+	} ,
+	{
+		"word"		: "にん" ,
+		"original"	: "〜人" ,
+		"chinese"	: "人"
+	} ,
+	{
+		"word"		: "ぬぐ" ,
+		"original"	: "脱ぐ" ,
+		"chinese"	: "脫、摘掉"
+	} ,
+	{
+		"word"		: "ぬるい" ,
+		"original"	: "温い" ,
+		"chinese"	: "微溫"
+	} ,
+	{
+		"word"		: "ネクタイ" ,
+		"original"	: "necktie" ,
+		"chinese"	: "領帶"
+	} ,
+	{
+		"word"		: "ねこ" ,
+		"original"	: "猫" ,
+		"chinese"	: "貓"
+	} ,
+	{
+		"word"		: "ねる" ,
+		"original"	: "寝る" ,
+		"chinese"	: "躺著、睡覺、就寢"
+	} ,
+	{
+		"word"		: "ねん" ,
+		"original"	: "〜年" ,
+		"chinese"	: "年、年限"
+	} ,
+	{
+		"word"		: "ノート" ,
+		"original"	: "note" ,
+		"chinese"	: "筆記本"
+	} ,
+	{
+		"word"		: "のぼる" ,
+		"original"	: "登る" ,
+		"chinese"	: "攀登、登上、上升"
+	} ,
+	{
+		"word"		: "のみもの" ,
+		"original"	: "飲み物" ,
+		"chinese"	: "飲料"
+	} ,
+	{
+		"word"		: "のむ" ,
+		"original"	: "飲む" ,
+		"chinese"	: "喝、吞"
+	} ,
+	{
+		"word"		: "のる" ,
+		"original"	: "乗る" ,
+		"chinese"	: "乘坐、搭乘"
+	} ,
+	{
+		"word"		: "は" ,
+		"original"	: "歯" ,
+		"chinese"	: "牙齒"
+	} ,
+	{
+		"word"		: "パーティー" ,
+		"original"	: "party" ,
+		"chinese"	: "派對"
+	} ,
+	{
+		"word"		: "はい" ,
+		"original"	: "はい" ,
+		"chinese"	: "是、好、可以"
+	} ,
+	{
+		"word"		: "はい" ,
+		"original"	: "〜杯" ,
+		"chinese"	: "杯"
+	} ,
+	{
+		"word"		: "はいざら" ,
+		"original"	: "灰皿" ,
+		"chinese"	: "煙灰缸"
+	} ,
+	{
+		"word"		: "はいる" ,
+		"original"	: "入る" ,
+		"chinese"	: "進入"
+	} ,
+	{
+		"word"		: "はがき" ,
+		"original"	: "葉書" ,
+		"chinese"	: "明信片"
+	} ,
+	{
+		"word"		: "はく" ,
+		"original"	: "穿く//履く「ズボンをはく」「靴をはく」" ,
+		"chinese"	: "穿"
+	} ,
+	{
+		"word"		: "はこ" ,
+		"original"	: "箱" ,
+		"chinese"	: "箱子、盒、匣子"
+	} ,
+	{
+		"word"		: "はし" ,
+		"original"	: "箸「はしで御飯を食べる」" ,
+		"chinese"	: "筷子"
+	} ,
+	{
+		"word"		: "はし" ,
+		"original"	: "橋" ,
+		"chinese"	: "橋梁、架橋、天橋"
+	} ,
+	{
+		"word"		: "はじまる" ,
+		"original"	: "始まる" ,
+		"chinese"	: "開始、引起、發生"
+	} ,
+	{
+		"word"		: "はじめ" ,
+		"original"	: "初め（に）" ,
+		"chinese"	: "最初、開頭、起因、原先、起源"
+	} ,
+	{
+		"word"		: "はじめて" ,
+		"original"	: "初めて" ,
+		"chinese"	: "初次、唯有…才"
+	} ,
+	{
+		"word"		: "はじめまして。" ,
+		"original"	: "初めまして。" ,
+		"chinese"	: "初次見面、幸會"
+	} ,
+	{
+		"word"		: "はしる" ,
+		"original"	: "走る" ,
+		"chinese"	: "跑、奔流"
+	} ,
+	{
+		"word"		: "バス" ,
+		"original"	: "bus" ,
+		"chinese"	: "公共汽車、巴士"
+	} ,
+	{
+		"word"		: "バター" ,
+		"original"	: "butter" ,
+		"chinese"	: "奶油、黃油"
+	} ,
+	{
+		"word"		: "はたち" ,
+		"original"	: "二十歳" ,
+		"chinese"	: "二十歲"
+	} ,
+	{
+		"word"		: "はたらく" ,
+		"original"	: "働く" ,
+		"chinese"	: "工作、勞動、活動"
+	} ,
+	{
+		"word"		: "はち" ,
+		"original"	: "八" ,
+		"chinese"	: "八、第八個"
+	} ,
+	{
+		"word"		: "はつか" ,
+		"original"	: "二十日" ,
+		"chinese"	: "二十號、二十日、二十天"
+	} ,
+	{
+		"word"		: "はな" ,
+		"original"	: "鼻" ,
+		"chinese"	: "鼻子"
+	} ,
+	{
+		"word"		: "はな" ,
+		"original"	: "花" ,
+		"chinese"	: "花"
+	} ,
+	{
+		"word"		: "はなし" ,
+		"original"	: "話" ,
+		"chinese"	: "說話、故事"
+	} ,
+	{
+		"word"		: "はなす" ,
+		"original"	: "話す" ,
+		"chinese"	: "講、談話、告訴"
+	} ,
+	{
+		"word"		: "はは" ,
+		"original"	: "母" ,
+		"chinese"	: "母親、媽媽"
+	} ,
+	{
+		"word"		: "はやい" ,
+		"original"	: "早い" ,
+		"chinese"	: "早"
+	} ,
+	{
+		"word"		: "はやい" ,
+		"original"	: "速い" ,
+		"chinese"	: "快、快速、敏捷"
+	} ,
+	{
+		"word"		: "はる" ,
+		"original"	: "貼る「切手をはる」" ,
+		"chinese"	: "貼"
+	} ,
+	{
+		"word"		: "はる" ,
+		"original"	: "春" ,
+		"chinese"	: "春天"
+	} ,
+	{
+		"word"		: "はれ" ,
+		"original"	: "晴れ" ,
+		"chinese"	: "晴天、隆重"
+	} ,
+	{
+		"word"		: "はれる" ,
+		"original"	: "晴れる" ,
+		"chinese"	: "晴、出晴、雲散發"
+	} ,
+	{
+		"word"		: "はん" ,
+		"original"	: "〜半" ,
+		"chinese"	: "一半、二分之一"
+	} ,
+	{
+		"word"		: "ばん" ,
+		"original"	: "晩" ,
+		"chinese"	: "晚、晚上"
+	} ,
+	{
+		"word"		: "ばん" ,
+		"original"	: "〜番" ,
+		"chinese"	: "班、次序"
+	} ,
+	{
+		"word"		: "パン" ,
+		"original"	: "pão" ,
+		"chinese"	: "麵包"
+	} ,
+	{
+		"word"		: "ハンカチ" ,
+		"original"	: "handkerchief" ,
+		"chinese"	: "手帕"
+	} ,
+	{
+		"word"		: "ばんごう" ,
+		"original"	: "番号" ,
+		"chinese"	: "號碼"
+	} ,
+	{
+		"word"		: "ばんごはん" ,
+		"original"	: "晩御飯" ,
+		"chinese"	: "晚餐"
+	} ,
+	{
+		"word"		: "はんぶん" ,
+		"original"	: "半分" ,
+		"chinese"	: "一半、二分之一"
+	} ,
+	{
+		"word"		: "ひがし" ,
+		"original"	: "東" ,
+		"chinese"	: "東方"
+	} ,
+	{
+		"word"		: "ひき" ,
+		"original"	: "〜匹" ,
+		"chinese"	: "〜隻、〜尾"
+	} ,
+	{
+		"word"		: "ひく" ,
+		"original"	: "引く" ,
+		"chinese"	: "拉、拔、減去、查、遺傳"
+	} ,
+	{
+		"word"		: "ひく" ,
+		"original"	: "弾く" ,
+		"chinese"	: "彈奏"
+	} ,
+	{
+		"word"		: "ひくい" ,
+		"original"	: "低い" ,
+		"chinese"	: "低的、低微的、矮的"
+	} ,
+	{
+		"word"		: "ひこうき" ,
+		"original"	: "飛行機" ,
+		"chinese"	: "飛機"
+	} ,
+	{
+		"word"		: "ひだり" ,
+		"original"	: "左" ,
+		"chinese"	: "左、左邊"
+	} ,
+	{
+		"word"		: "ひと" ,
+		"original"	: "人" ,
+		"chinese"	: "人"
+	} ,
+	{
+		"word"		: "ひとつ" ,
+		"original"	: "一つ" ,
+		"chinese"	: "一個、一歲、一方面"
+	} ,
+	{
+		"word"		: "ひとつき" ,
+		"original"	: "一月" ,
+		"chinese"	: "一個月"
+	} ,
+	{
+		"word"		: "ひとり" ,
+		"original"	: "一人" ,
+		"chinese"	: "一個人、一名"
+	} ,
+	{
+		"word"		: "ひま" ,
+		"original"	: "暇" ,
+		"chinese"	: "閒暇、餘暇"
+	} ,
+	{
+		"word"		: "ひゃく" ,
+		"original"	: "百" ,
+		"chinese"	: "一百"
+	} ,
+	{
+		"word"		: "びょういん" ,
+		"original"	: "病院" ,
+		"chinese"	: "醫院"
+	} ,
+	{
+		"word"		: "びょうき" ,
+		"original"	: "病気" ,
+		"chinese"	: "生病"
+	} ,
+	{
+		"word"		: "ひらがな" ,
+		"original"	: "平仮名" ,
+		"chinese"	: "平假名"
+	} ,
+	{
+		"word"		: "ひる" ,
+		"original"	: "昼" ,
+		"chinese"	: "中午"
+	} ,
+	{
+		"word"		: "ひるごはん" ,
+		"original"	: "昼御飯" ,
+		"chinese"	: "中餐"
+	} ,
+	{
+		"word"		: "ひろい" ,
+		"original"	: "広い" ,
+		"chinese"	: "寬闊、寬廣、廣泛"
+	} ,
+	{
+		"word"		: "プール" ,
+		"original"	: "pool" ,
+		"chinese"	: "游泳池"
+	} ,
+	{
+		"word"		: "フィルム" ,
+		"original"	: "film" ,
+		"chinese"	: "底片、薄膜、電影"
+	} ,
+	{
+		"word"		: "ふうとう" ,
+		"original"	: "封筒" ,
+		"chinese"	: "信封"
+	} ,
+	{
+		"word"		: "フォーク" ,
+		"original"	: "fork" ,
+		"chinese"	: "叉子"
+	} ,
+	{
+		"word"		: "ふく" ,
+		"original"	: "吹く" ,
+		"chinese"	: "吹"
+	} ,
+	{
+		"word"		: "ふく" ,
+		"original"	: "服" ,
+		"chinese"	: "衣服"
+	} ,
+	{
+		"word"		: "ふたつ" ,
+		"original"	: "二つ" ,
+		"chinese"	: "兩個"
+	} ,
+	{
+		"word"		: "ぶたにく" ,
+		"original"	: "豚肉" ,
+		"chinese"	: "豬肉"
+	} ,
+	{
+		"word"		: "ふたり" ,
+		"original"	: "二人" ,
+		"chinese"	: "兩個人"
+	} ,
+	{
+		"word"		: "ふつか" ,
+		"original"	: "二日" ,
+		"chinese"	: "兩天、二號、二日"
+	} ,
+	{
+		"word"		: "ふとい" ,
+		"original"	: "太い" ,
+		"chinese"	: "粗、肥"
+	} ,
+	{
+		"word"		: "ふゆ" ,
+		"original"	: "冬" ,
+		"chinese"	: "冬天"
+	} ,
+	{
+		"word"		: "ふる" ,
+		"original"	: "降る" ,
+		"chinese"	: "下、降"
+	} ,
+	{
+		"word"		: "ふるい" ,
+		"original"	: "古い" ,
+		"chinese"	: "舊、老、以往、古老、年久"
+	} ,
+	{
+		"word"		: "ふろ" ,
+		"original"	: "風呂" ,
+		"chinese"	: "澡盆、浴池"
+	} ,
+	{
+		"word"		: "ふん" ,
+		"original"	: "〜分" ,
+		"chinese"	: "分"
+	} ,
+	{
+		"word"		: "ぶんしょう" ,
+		"original"	: "文章" ,
+		"chinese"	: "文章"
+	} ,
+	{
+		"word"		: "ページ" ,
+		"original"	: "page" ,
+		"chinese"	: "頁、頁數"
+	} ,
+	{
+		"word"		: "へた" ,
+		"original"	: "下手" ,
+		"chinese"	: "笨拙、不高明"
+	} ,
+	{
+		"word"		: "ベッド" ,
+		"original"	: "bed" ,
+		"chinese"	: "床"
+	} ,
+	{
+		"word"		: "ペット" ,
+		"original"	: "pet" ,
+		"chinese"	: "寵物"
+	} ,
+	{
+		"word"		: "へや" ,
+		"original"	: "部屋" ,
+		"chinese"	: "房間"
+	} ,
+	{
+		"word"		: "へん" ,
+		"original"	: "辺" ,
+		"chinese"	: "附近、邊"
+	} ,
+	{
+		"word"		: "ペン" ,
+		"original"	: "pen" ,
+		"chinese"	: "鋼筆、筆桿子"
+	} ,
+	{
+		"word"		: "べんきょう（する）" ,
+		"original"	: "勉強（する）" ,
+		"chinese"	: "學習、用功"
+	} ,
+	{
+		"word"		: "べんり" ,
+		"original"	: "便利" ,
+		"chinese"	: "方便、方便"
+	} ,
+	{
+		"word"		: "ボールペン" ,
+		"original"	: "ballpen" ,
+		"chinese"	: "原子筆"
+	} ,
+	{
+		"word"		: "ほう" ,
+		"original"	: "方「〜より〜の方が」" ,
+		"chinese"	: "這一方面"
+	} ,
+	{
+		"word"		: "ぼうし" ,
+		"original"	: "帽子" ,
+		"chinese"	: "帽子"
+	} ,
+	{
+		"word"		: "ほか" ,
+		"original"	: "外" ,
+		"chinese"	: "另外、其他、外部、別處"
+	} ,
+	{
+		"word"		: "ポケット" ,
+		"original"	: "pocket" ,
+		"chinese"	: "口袋"
+	} ,
+	{
+		"word"		: "ほしい" ,
+		"original"	: "欲しい" ,
+		"chinese"	: "希望得到的、需要的"
+	} ,
+	{
+		"word"		: "ポスト" ,
+		"original"	: "post" ,
+		"chinese"	: "郵筒、信箱、地位、職位"
+	} ,
+	{
+		"word"		: "ほそい" ,
+		"original"	: "細い" ,
+		"chinese"	: "細的"
+	} ,
+	{
+		"word"		: "ボタン" ,
+		"original"	: "botão/button" ,
+		"chinese"	: "鈕扣//按鍵"
+	} ,
+	{
+		"word"		: "ホテル" ,
+		"original"	: "hotel" ,
+		"chinese"	: "旅館"
+	} ,
+	{
+		"word"		: "ほん" ,
+		"original"	: "本「書籍」" ,
+		"chinese"	: "書"
+	} ,
+	{
+		"word"		: "ほん" ,
+		"original"	: "〜本" ,
+		"chinese"	: "根、棵、隻等（表示細長物的單位）"
+	} ,
+	{
+		"word"		: "ほんだな" ,
+		"original"	: "本棚" ,
+		"chinese"	: "書架"
+	} ,
+	{
+		"word"		: "ほんとう" ,
+		"original"	: "本当" ,
+		"chinese"	: "真正"
+	} ,
+	{
+		"word"		: "ほんとう" ,
+		"original"	: "本当に" ,
+		"chinese"	: "真正、真實"
+	} ,
+	{
+		"word"		: "まい" ,
+		"original"	: "〜枚" ,
+		"chinese"	: "張、塊、片"
+	} ,
+	{
+		"word"		: "まいあさ" ,
+		"original"	: "毎朝" ,
+		"chinese"	: "每天早晨"
+	} ,
+	{
+		"word"		: "まいげつ‧まいつき" ,
+		"original"	: "毎月" ,
+		"chinese"	: "每個月"
+	} ,
+	{
+		"word"		: "まいしゅう" ,
+		"original"	: "毎週" ,
+		"chinese"	: "每星期"
+	} ,
+	{
+		"word"		: "まいにち" ,
+		"original"	: "毎日" ,
+		"chinese"	: "每天"
+	} ,
+	{
+		"word"		: "まいねん‧まいとし" ,
+		"original"	: "毎年" ,
+		"chinese"	: "每年"
+	} ,
+	{
+		"word"		: "まいばん" ,
+		"original"	: "毎晩" ,
+		"chinese"	: "每天晚上"
+	} ,
+	{
+		"word"		: "まえ" ,
+		"original"	: "前" ,
+		"chinese"	: "前方、以前"
+	} ,
+	{
+		"word"		: "まえ" ,
+		"original"	: "〜前" ,
+		"chinese"	: "----之前、過去"
+	} ,
+	{
+		"word"		: "まがる" ,
+		"original"	: "曲がる" ,
+		"chinese"	: "彎曲、轉彎"
+	} ,
+	{
+		"word"		: "まずい" ,
+		"original"	: "不味い" ,
+		"chinese"	: "難吃、不妙"
+	} ,
+	{
+		"word"		: "また" ,
+		"original"	: "又" ,
+		"chinese"	: "另、別、又"
+	} ,
+	{
+		"word"		: "まだ" ,
+		"original"	: "未だ" ,
+		"chinese"	: "還、尚、依然、尚未、仍舊、另外"
+	} ,
+	{
+		"word"		: "まち" ,
+		"original"	: "町" ,
+		"chinese"	: "城鎮"
+	} ,
+	{
+		"word"		: "まつ" ,
+		"original"	: "待つ" ,
+		"chinese"	: "等、等待"
+	} ,
+	{
+		"word"		: "まっすぐ・に" ,
+		"original"	: "真っ直ぐ・真っ直ぐに" ,
+		"chinese"	: "筆直、直接"
+	} ,
+	{
+		"word"		: "マッチ" ,
+		"original"	: "match" ,
+		"chinese"	: "火柴、調和、比賽"
+	} ,
+	{
+		"word"		: "まど" ,
+		"original"	: "窓" ,
+		"chinese"	: "窗戶"
+	} ,
+	{
+		"word"		: "まるい" ,
+		"original"	: "丸い、円い" ,
+		"chinese"	: "圓的、圓滿的"
+	} ,
+	{
+		"word"		: "まん" ,
+		"original"	: "万" ,
+		"chinese"	: "萬、極多"
+	} ,
+	{
+		"word"		: "まんねんひつ" ,
+		"original"	: "万年筆" ,
+		"chinese"	: "自來水筆、鋼筆"
+	} ,
+	{
+		"word"		: "みがく" ,
+		"original"	: "磨く" ,
+		"chinese"	: "刷、磨"
+	} ,
+	{
+		"word"		: "みぎ" ,
+		"original"	: "右" ,
+		"chinese"	: "右側、右傾"
+	} ,
+	{
+		"word"		: "みじかい" ,
+		"original"	: "短い" ,
+		"chinese"	: "短、短暫"
+	} ,
+	{
+		"word"		: "みず" ,
+		"original"	: "水" ,
+		"chinese"	: "水、液體"
+	} ,
+	{
+		"word"		: "みせ" ,
+		"original"	: "店" ,
+		"chinese"	: "商店、鋪子"
+	} ,
+	{
+		"word"		: "みせる" ,
+		"original"	: "見せる" ,
+		"chinese"	: "給看、讓看"
+	} ,
+	{
+		"word"		: "みち" ,
+		"original"	: "道" ,
+		"chinese"	: "道路、辦法"
+	} ,
+	{
+		"word"		: "みっか" ,
+		"original"	: "三日" ,
+		"chinese"	: "三日、三號"
+	} ,
+	{
+		"word"		: "みっつ" ,
+		"original"	: "三つ" ,
+		"chinese"	: "三個、三歲"
+	} ,
+	{
+		"word"		: "みどり" ,
+		"original"	: "緑" ,
+		"chinese"	: "綠色"
+	} ,
+	{
+		"word"		: "みなさん" ,
+		"original"	: "皆さん" ,
+		"chinese"	: "大家、各位"
+	} ,
+	{
+		"word"		: "みなみ" ,
+		"original"	: "南" ,
+		"chinese"	: "南、南方"
+	} ,
+	{
+		"word"		: "みみ" ,
+		"original"	: "耳" ,
+		"chinese"	: "耳朵"
+	} ,
+	{
+		"word"		: "みる" ,
+		"original"	: "見る" ,
+		"chinese"	: "看見、體驗"
+	} ,
+	{
+		"word"		: "みんな" ,
+		"original"	: "皆" ,
+		"chinese"	: "大家//全部、都"
+	} ,
+	{
+		"word"		: "むいか" ,
+		"original"	: "六日" ,
+		"chinese"	: "六號、六日、六天"
+	} ,
+	{
+		"word"		: "むこう" ,
+		"original"	: "向こう" ,
+		"chinese"	: "對面、對方"
+	} ,
+	{
+		"word"		: "むずかしい" ,
+		"original"	: "難しい" ,
+		"chinese"	: "難理解、難解決"
+	} ,
+	{
+		"word"		: "むっつ" ,
+		"original"	: "六つ" ,
+		"chinese"	: "第六、六個、六歳"
+	} ,
+	{
+		"word"		: "むら" ,
+		"original"	: "村" ,
+		"chinese"	: "村莊"
+	} ,
+	{
+		"word"		: "め" ,
+		"original"	: "目" ,
+		"chinese"	: "眼睛、眼球"
+	} ,
+	{
+		"word"		: "メートル" ,
+		"original"	: "mètre" ,
+		"chinese"	: "公尺"
+	} ,
+	{
+		"word"		: "めがね" ,
+		"original"	: "眼鏡" ,
+		"chinese"	: "眼鏡"
+	} ,
+	{
+		"word"		: "もう" ,
+		"original"	: "もう「もう一度」" ,
+		"chinese"	: "另外、再"
+	} ,
+	{
+		"word"		: "もう" ,
+		"original"	: "もう「もう、帰りました」" ,
+		"chinese"	: "已經、既"
+	} ,
+	{
+		"word"		: "もくようび" ,
+		"original"	: "木曜日" ,
+		"chinese"	: "星期四"
+	} ,
+	{
+		"word"		: "もしもし" ,
+		"original"	: "もしもし" ,
+		"chinese"	: "(打電話時)喂喂"
+	} ,
+	{
+		"word"		: "もつ" ,
+		"original"	: "持つ" ,
+		"chinese"	: "拿、帶來、保持"
+	} ,
+	{
+		"word"		: "もっと" ,
+		"original"	: "もっと" ,
+		"chinese"	: "更、進一步"
+	} ,
+	{
+		"word"		: "もの" ,
+		"original"	: "物" ,
+		"chinese"	: "物品、物質"
+	} ,
+	{
+		"word"		: "もん" ,
+		"original"	: "門" ,
+		"chinese"	: "門、----之門"
+	} ,
+	{
+		"word"		: "もんだい" ,
+		"original"	: "問題" ,
+		"chinese"	: "問題、(麻煩)事件"
+	} ,
+	{
+		"word"		: "や" ,
+		"original"	: "〜屋" ,
+		"chinese"	: "〜店"
+	} ,
+	{
+		"word"		: "やおや" ,
+		"original"	: "八百屋" ,
+		"chinese"	: "蔬菜店、蔬菜商人"
+	} ,
+	{
+		"word"		: "やさい" ,
+		"original"	: "野菜" ,
+		"chinese"	: "蔬菜"
+	} ,
+	{
+		"word"		: "やさしい" ,
+		"original"	: "易しい" ,
+		"chinese"	: "容易的、易懂"
+	} ,
+	{
+		"word"		: "やすい" ,
+		"original"	: "安い" ,
+		"chinese"	: "便宜、低廉的、安穩"
+	} ,
+	{
+		"word"		: "やすみ" ,
+		"original"	: "休み" ,
+		"chinese"	: "休息、休假"
+	} ,
+	{
+		"word"		: "やすむ" ,
+		"original"	: "休む" ,
+		"chinese"	: "休息、停歇"
+	} ,
+	{
+		"word"		: "やっつ" ,
+		"original"	: "八つ" ,
+		"chinese"	: "八個、八歳"
+	} ,
+	{
+		"word"		: "やま" ,
+		"original"	: "山" ,
+		"chinese"	: "山"
+	} ,
+	{
+		"word"		: "やる" ,
+		"original"	: "遣る「仕事をやる」" ,
+		"chinese"	: "做"
+	} ,
+	{
+		"word"		: "ゆうがた" ,
+		"original"	: "夕方" ,
+		"chinese"	: "傍晚、黃昏"
+	} ,
+	{
+		"word"		: "ゆうはん" ,
+		"original"	: "夕飯" ,
+		"chinese"	: "晩飯"
+	} ,
+	{
+		"word"		: "ゆうびんきょく" ,
+		"original"	: "郵便局" ,
+		"chinese"	: "郵局"
+	} ,
+	{
+		"word"		: "ゆうべ" ,
+		"original"	: "昨夜［「昨晩」の意］" ,
+		"chinese"	: "昨夜、昨晚"
+	} ,
+	{
+		"word"		: "ゆうめい" ,
+		"original"	: "有名" ,
+		"chinese"	: "有名、著名"
+	} ,
+	{
+		"word"		: "ゆき" ,
+		"original"	: "雪" ,
+		"chinese"	: "雪"
+	} ,
+	{
+		"word"		: "ゆっくり・と" ,
+		"original"	: "ゆっくり・と" ,
+		"chinese"	: "慢慢的"
+	} ,
+	{
+		"word"		: "ようか" ,
+		"original"	: "八日" ,
+		"chinese"	: "八日、八號"
+	} ,
+	{
+		"word"		: "ようふく" ,
+		"original"	: "洋服" ,
+		"chinese"	: "西服"
+	} ,
+	{
+		"word"		: "よく" ,
+		"original"	: "良く「よく行きます」" ,
+		"chinese"	: "經常、常常"
+	} ,
+	{
+		"word"		: "よく" ,
+		"original"	: "好く「よくできました」" ,
+		"chinese"	: "漂亮、好"
+	} ,
+	{
+		"word"		: "よこ" ,
+		"original"	: "横" ,
+		"chinese"	: "橫、旁邊"
+	} ,
+	{
+		"word"		: "よっか" ,
+		"original"	: "四日" ,
+		"chinese"	: "四天、四號"
+	} ,
+	{
+		"word"		: "よっつ" ,
+		"original"	: "四つ" ,
+		"chinese"	: "四、四個"
+	} ,
+	{
+		"word"		: "よぶ" ,
+		"original"	: "呼ぶ" ,
+		"chinese"	: "叫、叫來、呼做"
+	} ,
+	{
+		"word"		: "よむ" ,
+		"original"	: "読む" ,
+		"chinese"	: "看、讀、閱讀"
+	} ,
+	{
+		"word"		: "よる" ,
+		"original"	: "夜" ,
+		"chinese"	: "夜、夜間、夜晚"
+	} ,
+	{
+		"word"		: "よわい" ,
+		"original"	: "弱い" ,
+		"chinese"	: "弱的、不擅長"
+	} ,
+	{
+		"word"		: "らいげつ" ,
+		"original"	: "来月" ,
+		"chinese"	: "下個月"
+	} ,
+	{
+		"word"		: "らいしゅう" ,
+		"original"	: "来週" ,
+		"chinese"	: "下星期"
+	} ,
+	{
+		"word"		: "らいねん" ,
+		"original"	: "来年" ,
+		"chinese"	: "明年"
+	} ,
+	{
+		"word"		: "ラジオ" ,
+		"original"	: "radio" ,
+		"chinese"	: "廣播"
+	} ,
+	{
+		"word"		: "ラジカセ" ,
+		"original"	: "radiocassetterecorder" ,
+		"chinese"	: "收錄兩用收音機、錄放音機"
+	} ,
+	{
+		"word"		: "りっぱ" ,
+		"original"	: "立派" ,
+		"chinese"	: "美觀、堂皇、優秀、卓越、完全、光明正大"
+	} ,
+	{
+		"word"		: "りゅうがくせい" ,
+		"original"	: "留学生" ,
+		"chinese"	: "留學生"
+	} ,
+	{
+		"word"		: "りょうしん" ,
+		"original"	: "両親" ,
+		"chinese"	: "雙親、父母"
+	} ,
+	{
+		"word"		: "りょうり" ,
+		"original"	: "料理" ,
+		"chinese"	: "做飯菜、烹調、飯菜、菜餚"
+	} ,
+	{
+		"word"		: "りょこう（する）" ,
+		"original"	: "旅行（する）" ,
+		"chinese"	: "旅行"
+	} ,
+	{
+		"word"		: "れい" ,
+		"original"	: "零" ,
+		"chinese"	: "零"
+	} ,
+	{
+		"word"		: "れいぞうこ" ,
+		"original"	: "冷蔵庫" ,
+		"chinese"	: "冰箱"
+	} ,
+	{
+		"word"		: "レコード" ,
+		"original"	: "record" ,
+		"chinese"	: "唱片、記錄"
+	} ,
+	{
+		"word"		: "レストラン" ,
+		"original"	: "restaurant" ,
+		"chinese"	: "餐廳、西餐館、飯館"
+	} ,
+	{
+		"word"		: "れんしゅう（する）" ,
+		"original"	: "練習（する）" ,
+		"chinese"	: "練習"
+	} ,
+	{
+		"word"		: "ろうか" ,
+		"original"	: "廊下" ,
+		"chinese"	: "走廊"
+	} ,
+	{
+		"word"		: "ろく" ,
+		"original"	: "六" ,
+		"chinese"	: "六"
+	} ,
+	{
+		"word"		: "ワイシャツ" ,
+		"original"	: "whiteshirt" ,
+		"chinese"	: "襯衫"
+	} ,
+	{
+		"word"		: "わかい" ,
+		"original"	: "若い" ,
+		"chinese"	: "年輕的、年少的、幼稚、朝氣蓬勃"
+	} ,
+	{
+		"word"		: "わかる" ,
+		"original"	: "分かる" ,
+		"chinese"	: "明白、知道、懂、理解"
+	} ,
+	{
+		"word"		: "わすれる" ,
+		"original"	: "忘れる" ,
+		"chinese"	: "忘記、忘掉、忘懷、遺忘"
+	} ,
+	{
+		"word"		: "わたくし" ,
+		"original"	: "私" ,
+		"chinese"	: "〔敬語〕我"
+	} ,
+	{
+		"word"		: "わたし" ,
+		"original"	: "私" ,
+		"chinese"	: "我"
+	} ,
+	{
+		"word"		: "わたす" ,
+		"original"	: "渡す" ,
+		"chinese"	: "交付、給予、讓給、渡、架"
+	} ,
+	{
+		"word"		: "わたる" ,
+		"original"	: "渡る" ,
+		"chinese"	: "渡、經過"
+	} ,
+	{
+		"word"		: "わるい" ,
+		"original"	: "悪い" ,
+		"chinese"	: "壞、差、不好、（情況）不正常"
+	}
+]

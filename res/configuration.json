@@ -1,0 +1,12 @@
+{
+	"QuestionsAmount" :
+	{
+		"Level_0" : 1 ,
+		"Level_1" : 6 ,
+		"Level_2" : 6 ,
+		"Level_3" : 6 ,
+		"Level_4" : 6
+	} ,
+	
+	"MaxAmountOfAlphabetOnView" : 6
+}

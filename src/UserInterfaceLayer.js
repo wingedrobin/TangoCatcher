@@ -39,7 +39,8 @@ proj.UserInterfaceLayer = cc.Layer.extend(
 	
 	setAnswer : function( answer )
 	{
-		this._answerLabel.setString( this._answerLabel.getString( ) + answer ) ;
+		// this._answerLabel.setString( this._answerLabel.getString( ) + answer ) ;
+		this._answerLabel.setString( answer ) ;
 	} ,
 	
 	setAmountOfQuesiton : function( amount )

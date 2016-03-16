@@ -1,0 +1,152 @@
+[
+	{
+		"word"		: "あさねぼう" ,
+		"original"	: "朝寝坊" ,
+		"chinese"	: "賴床"
+	} ,
+	{
+		"word"		: "アワー" ,
+		"original"	: "hour" ,
+		"chinese"	: "時間、時刻"
+	} ,
+	{
+		"word"		: "イエス" ,
+		"original"	: "yes" ,
+		"chinese"	: "是、同意"
+	} ,
+	{
+		"word"		: "いけない" ,
+		"original"	: "いけない" ,
+		"chinese"	: "不好、不可以"
+	} ,
+	{
+		"word"		: "いちべつ" ,
+		"original"	: "一別//一瞥" ,
+		"chinese"	: "一別//看一眼"
+	} ,
+	{
+		"word"		: "いっていらっしゃい。" ,
+		"original"	: "行っていらっしゃい。" ,
+		"chinese"	: "慢走"
+	} ,
+	{
+		"word"		: "インフォーメーション" ,
+		"original"	: "information" ,
+		"chinese"	: "情報、詢問處"
+	} ,
+	{
+		"word"		: "うわ" ,
+		"original"	: "上〜" ,
+		"chinese"	: "上面、表面、高"
+	} ,
+	{
+		"word"		: "オーバーコート" ,
+		"original"	: "overcoat" ,
+		"chinese"	: "外套、大衣"
+	} ,
+	{
+		"word"		: "おうせつま" ,
+		"original"	: "応接間" ,
+		"chinese"	: "接待室"
+	} ,
+	{
+		"word"		: "きだて" ,
+		"original"	: "気立て" ,
+		"chinese"	: "性情、脾氣"
+	} ,
+	{
+		"word"		: "こうふく" ,
+		"original"	: "降伏" ,
+		"chinese"	: "投降"
+	} ,
+	{
+		"word"		: "こないだ" ,
+		"original"	: "こないだ" ,
+		"chinese"	: "近來、前些天"
+	} ,
+	{
+		"word"		: "さき（に）" ,
+		"original"	: "先（に）" ,
+		"chinese"	: "先、早、先前"
+	} ,
+	{
+		"word"		: "サンドウィッチ" ,
+		"original"	: "sandwich" ,
+		"chinese"	: "三明治"
+	} ,
+	{
+		"word"		: "しんちゅう" ,
+		"original"	: "心中" ,
+		"chinese"	: "內心、心"
+	} ,
+	{
+		"word"		: "せいそう" ,
+		"original"	: "正装" ,
+		"chinese"	: "穿禮服"
+	} ,
+	{
+		"word"		: "ダイヤグラム" ,
+		"original"	: "diagram" ,
+		"chinese"	: "鐵路營運圈、列車時刻表"
+	} ,
+	{
+		"word"		: "たいわん" ,
+		"original"	: "台湾" ,
+		"chinese"	: "臺灣"
+	} ,
+	{
+		"word"		: "ティシュペーパー" ,
+		"original"	: "tissuepaper" ,
+		"chinese"	: "衛生紙、紙手帕"
+	} ,
+	{
+		"word"		: "ドアー" ,
+		"original"	: "door" ,
+		"chinese"	: "門"
+	} ,
+	{
+		"word"		: "ノー" ,
+		"original"	: "no" ,
+		"chinese"	: "不、不是"
+	} ,
+	{
+		"word"		: "バック" ,
+		"original"	: "back" ,
+		"chinese"	: "背景、後退"
+	} ,
+	{
+		"word"		: "バンド" ,
+		"original"	: "band「ベルト」" ,
+		"chinese"	: "(皮)帶［樂團］"
+	} ,
+	{
+		"word"		: "ビールス" ,
+		"original"	: "virus" ,
+		"chinese"	: "病毒、濾過性病原體"
+	} ,
+	{
+		"word"		: "ひとりびとり" ,
+		"original"	: "一人一人" ,
+		"chinese"	: "每個人"
+	} ,
+	{
+		"word"		: "フイルム" ,
+		"original"	: "film" ,
+		"chinese"	: "底片、薄膜、電影"
+	} ,
+	{
+		"word"		: "ほんと" ,
+		"original"	: "本当" ,
+		"chinese"	: "真正"
+	} ,
+	{
+		"word"		: "めんどくさい" ,
+		"original"	: "面倒臭い" ,
+		"chinese"	: "非常麻煩"
+	} ,
+	{
+		"word"		: "ゆう" ,
+		"original"	: "言う" ,
+		"chinese"	: "說、訴說"
+	}
+]

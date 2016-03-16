@@ -108,10 +108,8 @@ proj.PhysicsSpriteNode = cc.PhysicsSprite.extend(
 	
 	onExit : function( )
 	{
-	cc.log( 11 ) ;
 		this._physicsSpace.removeBody( this._body ) ;
 		this._physicsSpace.removeShape( this._shape ) ;
-	cc.log( 12 ) ;
 	}
 } ) ;
 

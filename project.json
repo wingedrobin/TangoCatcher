@@ -18,11 +18,15 @@
     "jsList" :
 	[
 		"src/third-party/chai/chai.js" ,
+		"src/third-party/enum/enum-2.3.0.min.js" ,
 		"src/generic/Namespace.js" ,
 		"src/generic/Utilities.js" ,
         "src/resource.js" ,
+		"src/component/TouchBlockedLayer.js" ,
+		"src/component/PolymorphousNode.js" ,
 		"src/component/ControlSignalReceiver.js" ,
 		"src/component/PhysicsSpriteNode.js" ,
+		"src/component/StageClearLayer.js" ,
 		"src/UserInterfaceLayer.js" ,
 		"src/component/PhysicsLayer.js" ,
 		"src/MenuScene.js" ,

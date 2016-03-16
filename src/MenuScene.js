@@ -48,11 +48,20 @@ proj.MenuScene = cc.Scene.extend(
 		cc.log( json ) ;
 		proj.questions = json ;
 		cc.spriteFrameCache.addSpriteFrames( res.MenuScene_plist , res.MenuScene_png ) ;
-		cc.director.pushScene( new proj.MainScene( ) ) ;
+		// cc.director.pushScene( new proj.MainScene( ) ) ;
+		cc.director.runScene( new proj.MainScene( ) ) ;
+	} ,
+	
+	onEnter : function( )
+	{
+		this._super( ) ;
+		cc.log( "menu scene onEnter" ) ;
 	} ,
 	
 	onExit : function( )
 	{
+		this._super( ) ;
+		cc.log( "menu scene onExit" ) ;
 		this.removeAllChildren( ) ;
 	}
 } ) ;
